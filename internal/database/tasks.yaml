@@ -1,0 +1,4942 @@
+- id: 1
+  question: What does "offen" mean?
+  answers:
+    - open
+- id: 2
+  question: How do you say "open"?
+  answers:
+    - offen
+- id: 3
+  question: What does "etwa" mean?
+  answers:
+    - about
+    - approximately
+- id: 4
+  question: How do you say "about"?
+  answers:
+    - etwa
+- id: 5
+  question: How do you say "approximately"?
+  answers:
+    - etwa
+- id: 6
+  question: What does "die Schule" mean?
+  answers:
+    - school
+- id: 7
+  question: How do you say "school"?
+  answers:
+    - die Schule
+- id: 8
+  question: What does "die Gesellschaft" mean?
+  answers:
+    - society
+    - company
+- id: 9
+  question: How do you say "society"?
+  answers:
+    - die Gesellschaft
+- id: 10
+  question: How do you say "company"?
+  answers:
+    - die Gesellschaft
+- id: 11
+  question: What does "bekannt" mean?
+  answers:
+    - wellknow
+- id: 12
+  question: How do you say "wellknow"?
+  answers:
+    - bekannt
+- id: 13
+  question: What does "irgendwie" mean?
+  answers:
+    - somehow
+- id: 14
+  question: How do you say "somehow"?
+  answers:
+    - irgendwie
+- id: 15
+  question: What does "der Weg" mean?
+  answers:
+    - way
+- id: 16
+  question: How do you say "way"?
+  answers:
+    - der Weg
+- id: 17
+  question: What does "der Platz" mean?
+  answers:
+    - number
+- id: 18
+  question: How do you say "number"?
+  answers:
+    - der Platz
+- id: 19
+  question: What does "unterschiedlich" mean?
+  answers:
+    - different
+- id: 20
+  question: How do you say "different"?
+  answers:
+    - unterschiedlich
+- id: 21
+  question: What does "der Text" mean?
+  answers:
+    - text
+- id: 22
+  question: How do you say "text"?
+  answers:
+    - der Text
+- id: 23
+  question: What does "Zeit" mean?
+  answers:
+    - time
+- id: 24
+  question: How do you say "time"?
+  answers:
+    - Zeit
+- id: 25
+  question: What does "steigen" mean?
+  answers:
+    - to climb
+    - increase
+- id: 26
+  question: How do you say "to climb"?
+  answers:
+    - steigen
+- id: 27
+  question: How do you say "increase"?
+  answers:
+    - steigen
+- id: 28
+  question: What does "spät" mean?
+  answers:
+    - late
+- id: 29
+  question: How do you say "late"?
+  answers:
+    - spät
+- id: 30
+  question: What does "vor•stellen" mean?
+  answers:
+    - to introduce
+    - imagine
+- id: 31
+  question: How do you say "to introduce"?
+  answers:
+    - vor•stellen
+- id: 32
+  question: How do you say "imagine"?
+  answers:
+    - vor•stellen
+- id: 33
+  question: What does "weil" mean?
+  answers:
+    - because
+- id: 34
+  question: How do you say "because"?
+  answers:
+    - weil
+- id: 35
+  question: What does "drei" mean?
+  answers:
+    - three
+- id: 36
+  question: How do you say "three"?
+  answers:
+    - drei
+- id: 37
+  question: What does "solch" mean?
+  answers:
+    - such
+- id: 38
+  question: How do you say "such"?
+  answers:
+    - solch
+- id: 39
+  question: What does "international" mean?
+  answers:
+    - international
+- id: 40
+  question: How do you say "international"?
+  answers:
+    - international
+- id: 41
+  question: What does "erwarten" mean?
+  answers:
+    - to expect
+- id: 42
+  question: How do you say "to expect"?
+  answers:
+    - erwarten
+- id: 43
+  question: What does "die Familie" mean?
+  answers:
+    - family
+- id: 44
+  question: How do you say "family"?
+  answers:
+    - die Familie
+- id: 45
+  question: What does "Eltern" mean?
+  answers:
+    - parents
+- id: 46
+  question: How do you say "parents"?
+  answers:
+    - Eltern
+- id: 47
+  question: What does "her" mean?
+  answers:
+    - in a direction) away from
+- id: 48
+  question: How do you say "in a direction) away from"?
+  answers:
+    - her
+- id: 49
+  question: What does "oben" mean?
+  answers:
+    - above
+    - up there
+- id: 50
+  question: How do you say "above"?
+  answers:
+    - oben
+- id: 51
+  question: How do you say "up there"?
+  answers:
+    - oben
+- id: 52
+  question: What does "bissel" mean?
+  answers:
+    - little bit
+- id: 53
+  question: How do you say "little bit"?
+  answers:
+    - bissel
+- id: 54
+  question: What does "richtig" mean?
+  answers:
+    - right
+    - correct
+- id: 55
+  question: How do you say "right"?
+  answers:
+    - richtig
+- id: 56
+  question: How do you say "correct"?
+  answers:
+    - richtig
+- id: 57
+  question: What does "Leben" mean?
+  answers:
+    - life
+- id: 58
+  question: How do you say "life"?
+  answers:
+    - Leben
+- id: 59
+  question: What does "das Auge" mean?
+  answers:
+    - eye
+- id: 60
+  question: How do you say "eye"?
+  answers:
+    - das Auge
+- id: 61
+  question: What does "acht" mean?
+  answers:
+    - eight
+- id: 62
+  question: How do you say "eight"?
+  answers:
+    - acht
+- id: 63
+  question: What does "jährig" mean?
+  answers:
+    - yearold
+- id: 64
+  question: How do you say "yearold"?
+  answers:
+    - jährig
+- id: 65
+  question: What does "bis" mean?
+  answers:
+    - until
+- id: 66
+  question: How do you say "until"?
+  answers:
+    - bis
+- id: 67
+  question: What does "dazu" mean?
+  answers:
+    - in addition
+    - furthermore
+    - to that
+- id: 68
+  question: How do you say "in addition"?
+  answers:
+    - dazu
+- id: 69
+  question: How do you say "furthermore"?
+  answers:
+    - dazu
+- id: 70
+  question: How do you say "to that"?
+  answers:
+    - dazu
+- id: 71
+  question: What does "sollen" mean?
+  answers:
+    - should
+    - ought to
+- id: 72
+  question: How do you say "should"?
+  answers:
+    - sollen
+- id: 73
+  question: How do you say "ought to"?
+  answers:
+    - sollen
+- id: 74
+  question: What does "der Punkt" mean?
+  answers:
+    - dot
+    - point
+    - period
+- id: 75
+  question: How do you say "dot"?
+  answers:
+    - der Punkt
+- id: 76
+  question: How do you say "point"?
+  answers:
+    - der Punkt
+- id: 77
+  question: How do you say "period"?
+  answers:
+    - der Punkt
+- id: 78
+  question: What does "an•bieten" mean?
+  answers:
+    - to offer
+- id: 79
+  question: How do you say "to offer"?
+  answers:
+    - an•bieten
+- id: 80
+  question: What does "nicht" mean?
+  answers:
+    - not
+- id: 81
+  question: How do you say "not"?
+  answers:
+    - nicht
+- id: 82
+  question: What does "der Mann" mean?
+  answers:
+    - man
+- id: 83
+  question: How do you say "man"?
+  answers:
+    - der Mann
+- id: 84
+  question: What does "gleich" mean?
+  answers:
+    - same; right away
+    - just
+- id: 85
+  question: How do you say "same; right away"?
+  answers:
+    - gleich
+- id: 86
+  question: How do you say "just"?
+  answers:
+    - gleich
+- id: 87
+  question: What does "d" mean?
+  answers:
+    - above it
+    - about it
+- id: 88
+  question: How do you say "above it"?
+  answers:
+    - d
+- id: 89
+  question: How do you say "about it"?
+  answers:
+    - d
+- id: 90
+  question: What does "das Paar" mean?
+  answers:
+    - pair
+    - couple
+- id: 91
+  question: How do you say "pair"?
+  answers:
+    - das Paar
+- id: 92
+  question: How do you say "couple"?
+  answers:
+    - das Paar
+- id: 93
+  question: What does "der Krieg" mean?
+  answers:
+    - war
+- id: 94
+  question: How do you say "war"?
+  answers:
+    - der Krieg
+- id: 95
+  question: What does "seit" mean?
+  answers:
+    - since
+    - for (a period of time)
+- id: 96
+  question: How do you say "since"?
+  answers:
+    - seit
+- id: 97
+  question: How do you say "for (a period of time)"?
+  answers:
+    - seit
+- id: 98
+  question: What does "wirklich" mean?
+  answers:
+    - re
+- id: 99
+  question: How do you say "re"?
+  answers:
+    - wirklich
+- id: 100
+  question: What does "das Wort" mean?
+  answers:
+    - word
+- id: 101
+  question: How do you say "word"?
+  answers:
+    - das Wort
+- id: 102
+  question: What does "handeln" mean?
+  answers:
+    - to deal
+    - trade
+- id: 103
+  question: How do you say "to deal"?
+  answers:
+    - handeln
+- id: 104
+  question: How do you say "trade"?
+  answers:
+    - handeln
+- id: 105
+  question: What does "ach" mean?
+  answers:
+    - oh
+- id: 106
+  question: How do you say "oh"?
+  answers:
+    - ach
+- id: 107
+  question: What does "viel" mean?
+  answers:
+    - much
+    - a lot
+    - many
+- id: 108
+  question: How do you say "much"?
+  answers:
+    - viel
+- id: 109
+  question: How do you say "a lot"?
+  answers:
+    - viel
+- id: 110
+  question: How do you say "many"?
+  answers:
+    - viel
+- id: 111
+  question: What does "tun" mean?
+  answers:
+    - to do
+- id: 112
+  question: How do you say "to do"?
+  answers:
+    - tun
+- id: 113
+  question: What does "bereits" mean?
+  answers:
+    - already
+- id: 114
+  question: How do you say "already"?
+  answers:
+    - bereits
+- id: 115
+  question: What does "schwer" mean?
+  answers:
+    - difficult
+    - heavy
+- id: 116
+  question: How do you say "difficult"?
+  answers:
+    - schwer
+- id: 117
+  question: How do you say "heavy"?
+  answers:
+    - schwer
+- id: 118
+  question: What does "das Interesse" mean?
+  answers:
+    - interest
+- id: 119
+  question: How do you say "interest"?
+  answers:
+    - das Interesse
+- id: 120
+  question: What does "der Vater" mean?
+  answers:
+    - father
+- id: 121
+  question: How do you say "father"?
+  answers:
+    - der Vater
+- id: 122
+  question: What does "Kunst" mean?
+  answers:
+    - art
+- id: 123
+  question: How do you say "art"?
+  answers:
+    - Kunst
+- id: 124
+  question: What does "auch" mean?
+  answers:
+    - also
+    - too
+- id: 125
+  question: How do you say "also"?
+  answers:
+    - auch
+- id: 126
+  question: How do you say "too"?
+  answers:
+    - auch
+- id: 127
+  question: What does "das Recht" mean?
+  answers:
+    - right
+    - law
+- id: 128
+  question: How do you say "right"?
+  answers:
+    - das Recht
+- id: 129
+  question: How do you say "law"?
+  answers:
+    - das Recht
+- id: 130
+  question: What does "der Sinn" mean?
+  answers:
+    - sense
+    - meaning
+- id: 131
+  question: How do you say "sense"?
+  answers:
+    - der Sinn
+- id: 132
+  question: How do you say "meaning"?
+  answers:
+    - der Sinn
+- id: 133
+  question: What does "danach" mean?
+  answers:
+    - after it
+    - afterwards
+- id: 134
+  question: How do you say "after it"?
+  answers:
+    - danach
+- id: 135
+  question: How do you say "afterwards"?
+  answers:
+    - danach
+- id: 136
+  question: What does "sofort" mean?
+  answers:
+    - immediately
+- id: 137
+  question: How do you say "immediately"?
+  answers:
+    - sofort
+- id: 138
+  question: What does "verlassen" mean?
+  answers:
+    - to leave
+- id: 139
+  question: How do you say "to leave"?
+  answers:
+    - verlassen
+- id: 140
+  question: What does "nein" mean?
+  answers:
+    - "no"
+- id: 141
+  question: How do you say "no"?
+  answers:
+    - nein
+- id: 142
+  question: What does "fast" mean?
+  answers:
+    - almost
+- id: 143
+  question: How do you say "almost"?
+  answers:
+    - fast
+- id: 144
+  question: What does "die Geschichte" mean?
+  answers:
+    - history
+    - story
+- id: 145
+  question: How do you say "history"?
+  answers:
+    - die Geschichte
+- id: 146
+  question: How do you say "story"?
+  answers:
+    - die Geschichte
+- id: 147
+  question: What does "die Entwicklung" mean?
+  answers:
+    - development
+- id: 148
+  question: How do you say "development"?
+  answers:
+    - die Entwicklung
+- id: 149
+  question: What does "die Nacht" mean?
+  answers:
+    - night
+- id: 150
+  question: How do you say "night"?
+  answers:
+    - die Nacht
+- id: 151
+  question: What does "ein•setzen" mean?
+  answers:
+    - to put in
+    - insert
+- id: 152
+  question: How do you say "to put in"?
+  answers:
+    - ein•setzen
+- id: 153
+  question: How do you say "insert"?
+  answers:
+    - ein•setzen
+- id: 154
+  question: What does "das Spiel" mean?
+  answers:
+    - game
+- id: 155
+  question: How do you say "game"?
+  answers:
+    - das Spiel
+- id: 156
+  question: What does "geben" mean?
+  answers:
+    - to give
+- id: 157
+  question: How do you say "to give"?
+  answers:
+    - geben
+- id: 158
+  question: What does "dürfen" mean?
+  answers:
+    - to be allowed
+    - may
+- id: 159
+  question: How do you say "to be allowed"?
+  answers:
+    - dürfen
+- id: 160
+  question: How do you say "may"?
+  answers:
+    - dürfen
+- id: 161
+  question: What does "möglich" mean?
+  answers:
+    - possible
+- id: 162
+  question: How do you say "possible"?
+  answers:
+    - möglich
+- id: 163
+  question: What does "wohnen" mean?
+  answers:
+    - to live
+- id: 164
+  question: How do you say "to live"?
+  answers:
+    - wohnen
+- id: 165
+  question: What does "der Ort" mean?
+  answers:
+    - place
+    - town
+    - location
+- id: 166
+  question: How do you say "place"?
+  answers:
+    - der Ort
+- id: 167
+  question: How do you say "town"?
+  answers:
+    - der Ort
+- id: 168
+  question: How do you say "location"?
+  answers:
+    - der Ort
+- id: 169
+  question: What does "das Kind" mean?
+  answers:
+    - child
+- id: 170
+  question: How do you say "child"?
+  answers:
+    - das Kind
+- id: 171
+  question: What does "finden" mean?
+  answers:
+    - to find
+- id: 172
+  question: How do you say "to find"?
+  answers:
+    - finden
+- id: 173
+  question: What does "die Mark" mean?
+  answers:
+    - mark
+- id: 174
+  question: How do you say "mark"?
+  answers:
+    - die Mark
+- id: 175
+  question: What does "anders" mean?
+  answers:
+    - in the end
+    - finally
+- id: 176
+  question: How do you say "in the end"?
+  answers:
+    - anders
+- id: 177
+  question: How do you say "finally"?
+  answers:
+    - anders
+- id: 178
+  question: What does "gewinnen" mean?
+  answers:
+    - to win
+- id: 179
+  question: How do you say "to win"?
+  answers:
+    - gewinnen
+- id: 180
+  question: What does "der Boden" mean?
+  answers:
+    - ground
+    - floor
+    - bottom
+- id: 181
+  question: How do you say "ground"?
+  answers:
+    - der Boden
+- id: 182
+  question: How do you say "floor"?
+  answers:
+    - der Boden
+- id: 183
+  question: How do you say "bottom"?
+  answers:
+    - der Boden
+- id: 184
+  question: What does "unter" mean?
+  answers:
+    - under
+- id: 185
+  question: How do you say "under"?
+  answers:
+    - unter
+- id: 186
+  question: What does "weitere(r/s)" mean?
+  answers:
+    - additional
+- id: 187
+  question: How do you say "additional"?
+  answers:
+    - weitere(r/s)
+- id: 188
+  question: What does "bestimmt" mean?
+  answers:
+    - special
+    - certain
+- id: 189
+  question: How do you say "special"?
+  answers:
+    - bestimmt
+- id: 190
+  question: How do you say "certain"?
+  answers:
+    - bestimmt
+- id: 191
+  question: What does "an•fangen" mean?
+  answers:
+    - to begin
+- id: 192
+  question: How do you say "to begin"?
+  answers:
+    - an•fangen
+- id: 193
+  question: What does "mein" mean?
+  answers:
+    - my
+- id: 194
+  question: How do you say "my"?
+  answers:
+    - mein
+- id: 195
+  question: What does "dort" mean?
+  answers:
+    - there
+- id: 196
+  question: How do you say "there"?
+  answers:
+    - dort
+- id: 197
+  question: What does "leben" mean?
+  answers:
+    - to live
+- id: 198
+  question: How do you say "to live"?
+  answers:
+    - leben
+- id: 199
+  question: What does "erinnern" mean?
+  answers:
+    - to remind
+- id: 200
+  question: How do you say "to remind"?
+  answers:
+    - erinnern
+- id: 201
+  question: What does "ähnlich" mean?
+  answers:
+    - similar
+- id: 202
+  question: How do you say "similar"?
+  answers:
+    - ähnlich
+- id: 203
+  question: What does "legen" mean?
+  answers:
+    - to put
+    - lay (in a horizontal position)
+- id: 204
+  question: How do you say "to put"?
+  answers:
+    - legen
+- id: 205
+  question: How do you say "lay (in a horizontal position)"?
+  answers:
+    - legen
+- id: 206
+  question: What does "deutlich" mean?
+  answers:
+    - clear
+- id: 207
+  question: How do you say "clear"?
+  answers:
+    - deutlich
+- id: 208
+  question: What does "bilden" mean?
+  answers:
+    - to form
+    - educate
+- id: 209
+  question: How do you say "to form"?
+  answers:
+    - bilden
+- id: 210
+  question: How do you say "educate"?
+  answers:
+    - bilden
+- id: 211
+  question: What does "Arbeit" mean?
+  answers:
+    - (noun
+- id: 212
+  question: How do you say "(noun"?
+  answers:
+    - Arbeit
+- id: 213
+  question: What does "interessieren" mean?
+  answers:
+    - to interest
+- id: 214
+  question: How do you say "to interest"?
+  answers:
+    - interessieren
+- id: 215
+  question: What does "wer" mean?
+  answers:
+    - who
+    - whoever
+- id: 216
+  question: How do you say "who"?
+  answers:
+    - wer
+- id: 217
+  question: How do you say "whoever"?
+  answers:
+    - wer
+- id: 218
+  question: What does "die Mutter" mean?
+  answers:
+    - mother
+- id: 219
+  question: How do you say "mother"?
+  answers:
+    - die Mutter
+- id: 220
+  question: What does "gern(e)" mean?
+  answers:
+    - gladly
+- id: 221
+  question: How do you say "gladly"?
+  answers:
+    - gern(e)
+- id: 222
+  question: What does "na" mean?
+  answers:
+    - well
+- id: 223
+  question: How do you say "well"?
+  answers:
+    - na
+- id: 224
+  question: What does "von" mean?
+  answers:
+    - from
+    - of
+- id: 225
+  question: How do you say "from"?
+  answers:
+    - von
+- id: 226
+  question: How do you say "of"?
+  answers:
+    - von
+- id: 227
+  question: What does "besser" mean?
+  answers:
+    - better
+- id: 228
+  question: How do you say "better"?
+  answers:
+    - besser
+- id: 229
+  question: What does "bestehen" mean?
+  answers:
+    - to exist
+    - insist
+    - pass (an exam)
+- id: 230
+  question: How do you say "to exist"?
+  answers:
+    - bestehen
+- id: 231
+  question: How do you say "insist"?
+  answers:
+    - bestehen
+- id: 232
+  question: How do you say "pass (an exam)"?
+  answers:
+    - bestehen
+- id: 233
+  question: What does "sitzen" mean?
+  answers:
+    - to sit
+    - to be sitting
+- id: 234
+  question: How do you say "to sit"?
+  answers:
+    - sitzen
+- id: 235
+  question: How do you say "to be sitting"?
+  answers:
+    - sitzen
+- id: 236
+  question: What does "allgemein" mean?
+  answers:
+    - general
+- id: 237
+  question: How do you say "general"?
+  answers:
+    - allgemein
+- id: 238
+  question: What does "jemand" mean?
+  answers:
+    - someone  .
+- id: 239
+  question: How do you say "someone  ."?
+  answers:
+    - jemand
+- id: 240
+  question: What does "Musik" mean?
+  answers:
+    - music
+- id: 241
+  question: How do you say "music"?
+  answers:
+    - Musik
+- id: 242
+  question: What does "andere" mean?
+  answers:
+    - other
+- id: 243
+  question: How do you say "other"?
+  answers:
+    - andere
+- id: 244
+  question: What does "alt" mean?
+  answers:
+    - old
+- id: 245
+  question: How do you say "old"?
+  answers:
+    - alt
+- id: 246
+  question: What does "das Ziel" mean?
+  answers:
+    - goal
+    - destination
+- id: 247
+  question: How do you say "goal"?
+  answers:
+    - das Ziel
+- id: 248
+  question: How do you say "destination"?
+  answers:
+    - das Ziel
+- id: 249
+  question: What does "der Freund" mean?
+  answers:
+    - friend
+- id: 250
+  question: How do you say "friend"?
+  answers:
+    - der Freund
+- id: 251
+  question: What does "ab" mean?
+  answers:
+    - from
+- id: 252
+  question: How do you say "from"?
+  answers:
+    - ab
+- id: 253
+  question: What does "leicht" mean?
+  answers:
+    - light
+    - easy
+- id: 254
+  question: How do you say "light"?
+  answers:
+    - leicht
+- id: 255
+  question: How do you say "easy"?
+  answers:
+    - leicht
+- id: 256
+  question: What does "das Werk" mean?
+  answers:
+    - work; factory
+- id: 257
+  question: How do you say "work; factory"?
+  answers:
+    - das Werk
+- id: 258
+  question: What does "bald" mean?
+  answers:
+    - soon
+- id: 259
+  question: How do you say "soon"?
+  answers:
+    - bald
+- id: 260
+  question: What does "zu" mean?
+  answers:
+    - to
+    - at
+- id: 261
+  question: How do you say "to"?
+  answers:
+    - zu
+- id: 262
+  question: How do you say "at"?
+  answers:
+    - zu
+- id: 263
+  question: What does "nach" mean?
+  answers:
+    - after
+    - toward
+- id: 264
+  question: How do you say "after"?
+  answers:
+    - nach
+- id: 265
+  question: How do you say "toward"?
+  answers:
+    - nach
+- id: 266
+  question: What does "die Möglichkeit" mean?
+  answers:
+    - possibility
+- id: 267
+  question: How do you say "possibility"?
+  answers:
+    - die Möglichkeit
+- id: 268
+  question: What does "halb" mean?
+  answers:
+    - half
+- id: 269
+  question: How do you say "half"?
+  answers:
+    - halb
+- id: 270
+  question: What does "vergleichen" mean?
+  answers:
+    - to compare
+- id: 271
+  question: How do you say "to compare"?
+  answers:
+    - vergleichen
+- id: 272
+  question: What does "völlig" mean?
+  answers:
+    - complete
+- id: 273
+  question: How do you say "complete"?
+  answers:
+    - völlig
+- id: 274
+  question: What does "besonders" mean?
+  answers:
+    - especially
+- id: 275
+  question: How do you say "especially"?
+  answers:
+    - besonders
+- id: 276
+  question: What does "dar•stellen" mean?
+  answers:
+    - to depict
+    - portray
+- id: 277
+  question: How do you say "to depict"?
+  answers:
+    - dar•stellen
+- id: 278
+  question: How do you say "portray"?
+  answers:
+    - dar•stellen
+- id: 279
+  question: What does "der Rahmen" mean?
+  answers:
+    - frame
+    - framework
+- id: 280
+  question: How do you say "frame"?
+  answers:
+    - der Rahmen
+- id: 281
+  question: How do you say "framework"?
+  answers:
+    - der Rahmen
+- id: 282
+  question: What does "heißen" mean?
+  answers:
+    - to be called
+- id: 283
+  question: How do you say "to be called"?
+  answers:
+    - heißen
+- id: 284
+  question: What does "das Land" mean?
+  answers:
+    - land
+    - country
+    - state
+- id: 285
+  question: How do you say "land"?
+  answers:
+    - das Land
+- id: 286
+  question: How do you say "country"?
+  answers:
+    - das Land
+- id: 287
+  question: How do you say "state"?
+  answers:
+    - das Land
+- id: 288
+  question: What does "die Sache" mean?
+  answers:
+    - thing
+- id: 289
+  question: How do you say "thing"?
+  answers:
+    - die Sache
+- id: 290
+  question: What does "der Kopf" mean?
+  answers:
+    - head
+- id: 291
+  question: How do you say "head"?
+  answers:
+    - der Kopf
+- id: 292
+  question: What does "erhalten" mean?
+  answers:
+    - to receive
+- id: 293
+  question: How do you say "to receive"?
+  answers:
+    - erhalten
+- id: 294
+  question: What does "heute" mean?
+  answers:
+    - today
+- id: 295
+  question: How do you say "today"?
+  answers:
+    - heute
+- id: 296
+  question: What does "schreiben" mean?
+  answers:
+    - to write
+- id: 297
+  question: How do you say "to write"?
+  answers:
+    - schreiben
+- id: 298
+  question: What does "nah(e)" mean?
+  answers:
+    - near
+    - close
+- id: 299
+  question: How do you say "near"?
+  answers:
+    - nah(e)
+- id: 300
+  question: How do you say "close"?
+  answers:
+    - nah(e)
+- id: 301
+  question: What does "fehlen" mean?
+  answers:
+    - to lack
+    - to be missing
+    - be absent
+- id: 302
+  question: How do you say "to lack"?
+  answers:
+    - fehlen
+- id: 303
+  question: How do you say "to be missing"?
+  answers:
+    - fehlen
+- id: 304
+  question: How do you say "be absent"?
+  answers:
+    - fehlen
+- id: 305
+  question: What does "selbst" mean?
+  answers:
+    - self
+- id: 306
+  question: How do you say "self"?
+  answers:
+    - selbst
+- id: 307
+  question: What does "ziemlich" mean?
+  answers:
+    - quite
+    - fairly
+- id: 308
+  question: How do you say "quite"?
+  answers:
+    - ziemlich
+- id: 309
+  question: How do you say "fairly"?
+  answers:
+    - ziemlich
+- id: 310
+  question: What does "der Tisch" mean?
+  answers:
+    - table
+- id: 311
+  question: How do you say "table"?
+  answers:
+    - der Tisch
+- id: 312
+  question: What does "in" mean?
+  answers:
+    - in
+- id: 313
+  question: How do you say "in"?
+  answers:
+    - in
+- id: 314
+  question: What does "kommen" mean?
+  answers:
+    - to come
+- id: 315
+  question: How do you say "to come"?
+  answers:
+    - kommen
+- id: 316
+  question: What does "das Haus" mean?
+  answers:
+    - house
+- id: 317
+  question: How do you say "house"?
+  answers:
+    - das Haus
+- id: 318
+  question: What does "der Name" mean?
+  answers:
+    - name
+- id: 319
+  question: How do you say "name"?
+  answers:
+    - der Name
+- id: 320
+  question: What does "die Stelle" mean?
+  answers:
+    - place
+- id: 321
+  question: How do you say "place"?
+  answers:
+    - die Stelle
+- id: 322
+  question: What does "als" mean?
+  answers:
+    - as
+    - when
+- id: 323
+  question: How do you say "as"?
+  answers:
+    - als
+- id: 324
+  question: How do you say "when"?
+  answers:
+    - als
+- id: 325
+  question: What does "erster" mean?
+  answers:
+    - first
+- id: 326
+  question: How do you say "first"?
+  answers:
+    - erster
+- id: 327
+  question: What does "fahren" mean?
+  answers:
+    - to drive
+    - ride
+    - go (by vehicle)
+- id: 328
+  question: How do you say "to drive"?
+  answers:
+    - fahren
+- id: 329
+  question: How do you say "ride"?
+  answers:
+    - fahren
+- id: 330
+  question: How do you say "go (by vehicle)"?
+  answers:
+    - fahren
+- id: 331
+  question: What does "bedeuten" mean?
+  answers:
+    - to mean
+- id: 332
+  question: How do you say "to mean"?
+  answers:
+    - bedeuten
+- id: 333
+  question: What does "außerdem" mean?
+  answers:
+    - besides
+    - in addition
+- id: 334
+  question: How do you say "besides"?
+  answers:
+    - außerdem
+- id: 335
+  question: How do you say "in addition"?
+  answers:
+    - außerdem
+- id: 336
+  question: What does "mögen" mean?
+  answers:
+    - to like
+- id: 337
+  question: How do you say "to like"?
+  answers:
+    - mögen
+- id: 338
+  question: What does "besonder" mean?
+  answers:
+    - special
+- id: 339
+  question: How do you say "special"?
+  answers:
+    - besonder
+- id: 340
+  question: What does "zwischen" mean?
+  answers:
+    - between
+- id: 341
+  question: How do you say "between"?
+  answers:
+    - zwischen
+- id: 342
+  question: What does "bekommen" mean?
+  answers:
+    - to get
+    - receive
+- id: 343
+  question: How do you say "to get"?
+  answers:
+    - bekommen
+- id: 344
+  question: How do you say "receive"?
+  answers:
+    - bekommen
+- id: 345
+  question: What does "voll" mean?
+  answers:
+    - full
+- id: 346
+  question: How do you say "full"?
+  answers:
+    - voll
+- id: 347
+  question: What does "schwierig" mean?
+  answers:
+    - difficult
+- id: 348
+  question: How do you say "difficult"?
+  answers:
+    - schwierig
+- id: 349
+  question: What does "können" mean?
+  answers:
+    - can
+    - to be able
+- id: 350
+  question: How do you say "can"?
+  answers:
+    - können
+- id: 351
+  question: How do you say "to be able"?
+  answers:
+    - können
+- id: 352
+  question: What does "einfach" mean?
+  answers:
+    - simple
+    - easy
+- id: 353
+  question: How do you say "simple"?
+  answers:
+    - einfach
+- id: 354
+  question: How do you say "easy"?
+  answers:
+    - einfach
+- id: 355
+  question: What does "oft" mean?
+  answers:
+    - often
+- id: 356
+  question: How do you say "often"?
+  answers:
+    - oft
+- id: 357
+  question: What does "warum" mean?
+  answers:
+    - why
+- id: 358
+  question: How do you say "why"?
+  answers:
+    - warum
+- id: 359
+  question: What does "deshalb" mean?
+  answers:
+    - for that reason
+- id: 360
+  question: How do you say "for that reason"?
+  answers:
+    - deshalb
+- id: 361
+  question: What does "zehn" mean?
+  answers:
+    - ten
+- id: 362
+  question: How do you say "ten"?
+  answers:
+    - zehn
+- id: 363
+  question: What does "lesen" mean?
+  answers:
+    - to read
+- id: 364
+  question: How do you say "to read"?
+  answers:
+    - lesen
+- id: 365
+  question: What does "aus•sehen" mean?
+  answers:
+    - to appear
+    - look (a certain way)
+- id: 366
+  question: How do you say "to appear"?
+  answers:
+    - aus•sehen
+- id: 367
+  question: How do you say "look (a certain way)"?
+  answers:
+    - aus•sehen
+- id: 368
+  question: What does "sondern" mean?
+  answers:
+    - but (on the contrary)
+- id: 369
+  question: How do you say "but (on the contrary)"?
+  answers:
+    - sondern
+- id: 370
+  question: What does "führen" mean?
+  answers:
+    - to lead
+- id: 371
+  question: How do you say "to lead"?
+  answers:
+    - führen
+- id: 372
+  question: What does "gerade" mean?
+  answers:
+    - just
+    - just now
+- id: 373
+  question: How do you say "just"?
+  answers:
+    - gerade
+- id: 374
+  question: How do you say "just now"?
+  answers:
+    - gerade
+- id: 375
+  question: What does "erzählen" mean?
+  answers:
+    - to narrate
+    - tell
+- id: 376
+  question: How do you say "to narrate"?
+  answers:
+    - erzählen
+- id: 377
+  question: How do you say "tell"?
+  answers:
+    - erzählen
+- id: 378
+  question: What does "erreichen" mean?
+  answers:
+    - to reach
+    - achieve
+- id: 379
+  question: How do you say "to reach"?
+  answers:
+    - erreichen
+- id: 380
+  question: How do you say "achieve"?
+  answers:
+    - erreichen
+- id: 381
+  question: What does "sowie" mean?
+  answers:
+    - as well as
+- id: 382
+  question: How do you say "as well as"?
+  answers:
+    - sowie
+- id: 383
+  question: What does "jen" mean?
+  answers:
+    - that
+    - those
+- id: 384
+  question: How do you say "that"?
+  answers:
+    - jen
+- id: 385
+  question: How do you say "those"?
+  answers:
+    - jen
+- id: 386
+  question: What does "europäisch" mean?
+  answers:
+    - European
+- id: 387
+  question: How do you say "European"?
+  answers:
+    - europäisch
+- id: 388
+  question: What does "sehen" mean?
+  answers:
+    - to see
+- id: 389
+  question: How do you say "to see"?
+  answers:
+    - sehen
+- id: 390
+  question: What does "dagegen" mean?
+  answers:
+    - against it
+    - on the other hand
+- id: 391
+  question: How do you say "against it"?
+  answers:
+    - dagegen
+- id: 392
+  question: How do you say "on the other hand"?
+  answers:
+    - dagegen
+- id: 393
+  question: What does "jung" mean?
+  answers:
+    - young
+- id: 394
+  question: How do you say "young"?
+  answers:
+    - jung
+- id: 395
+  question: What does "einzig" mean?
+  answers:
+    - only
+    - single
+- id: 396
+  question: How do you say "only"?
+  answers:
+    - einzig
+- id: 397
+  question: How do you say "single"?
+  answers:
+    - einzig
+- id: 398
+  question: What does "nämlich" mean?
+  answers:
+    - namely
+- id: 399
+  question: How do you say "namely"?
+  answers:
+    - nämlich
+- id: 400
+  question: What does "naja" mean?
+  answers:
+    - well &#;
+- id: 401
+  question: How do you say "well &#;"?
+  answers:
+    - naja
+- id: 402
+  question: What does "immer" mean?
+  answers:
+    - always
+- id: 403
+  question: How do you say "always"?
+  answers:
+    - immer
+- id: 404
+  question: What does "wissen" mean?
+  answers:
+    - to know
+- id: 405
+  question: How do you say "to know"?
+  answers:
+    - wissen
+- id: 406
+  question: What does "das Beispiel" mean?
+  answers:
+    - example
+- id: 407
+  question: How do you say "example"?
+  answers:
+    - das Beispiel
+- id: 408
+  question: What does "bleiben" mean?
+  answers:
+    - to stay
+- id: 409
+  question: How do you say "to stay"?
+  answers:
+    - bleiben
+- id: 410
+  question: What does "darauf" mean?
+  answers:
+    - on it
+    - to it
+- id: 411
+  question: How do you say "on it"?
+  answers:
+    - darauf
+- id: 412
+  question: How do you say "to it"?
+  answers:
+    - darauf
+- id: 413
+  question: What does "stehen" mean?
+  answers:
+    - to stand
+- id: 414
+  question: How do you say "to stand"?
+  answers:
+    - stehen
+- id: 415
+  question: What does "folgen" mean?
+  answers:
+    - to follow
+- id: 416
+  question: How do you say "to follow"?
+  answers:
+    - folgen
+- id: 417
+  question: What does "halt" mean?
+  answers:
+    - just
+    - simply
+- id: 418
+  question: How do you say "just"?
+  answers:
+    - halt
+- id: 419
+  question: How do you say "simply"?
+  answers:
+    - halt
+- id: 420
+  question: What does "die Stimme" mean?
+  answers:
+    - voice
+- id: 421
+  question: How do you say "voice"?
+  answers:
+    - die Stimme
+- id: 422
+  question: What does "wir" mean?
+  answers:
+    - we
+- id: 423
+  question: How do you say "we"?
+  answers:
+    - wir
+- id: 424
+  question: What does "erst" mean?
+  answers:
+    - first
+    - only
+    - not until
+- id: 425
+  question: How do you say "first"?
+  answers:
+    - erst
+- id: 426
+  question: How do you say "only"?
+  answers:
+    - erst
+- id: 427
+  question: How do you say "not until"?
+  answers:
+    - erst
+- id: 428
+  question: What does "eigen" mean?
+  answers:
+    - one&#;s own
+- id: 429
+  question: How do you say "one&#;s own"?
+  answers:
+    - eigen
+- id: 430
+  question: What does "sie" mean?
+  answers:
+    - she
+    - her
+- id: 431
+  question: How do you say "she"?
+  answers:
+    - sie
+- id: 432
+  question: How do you say "her"?
+  answers:
+    - sie
+- id: 433
+  question: What does "auf" mean?
+  answers:
+    - "on"
+    - at
+    - in
+- id: 434
+  question: How do you say "on"?
+  answers:
+    - auf
+- id: 435
+  question: How do you say "at"?
+  answers:
+    - auf
+- id: 436
+  question: How do you say "in"?
+  answers:
+    - auf
+- id: 437
+  question: What does "gehören" mean?
+  answers:
+    - to belong to
+- id: 438
+  question: How do you say "to belong to"?
+  answers:
+    - gehören
+- id: 439
+  question: What does "betreffen" mean?
+  answers:
+    - to affect
+    - concern
+- id: 440
+  question: How do you say "to affect"?
+  answers:
+    - betreffen
+- id: 441
+  question: How do you say "concern"?
+  answers:
+    - betreffen
+- id: 442
+  question: What does "meist" mean?
+  answers:
+    - most
+- id: 443
+  question: How do you say "most"?
+  answers:
+    - meist
+- id: 444
+  question: What does "Mal" mean?
+  answers:
+    - time
+- id: 445
+  question: How do you say "time"?
+  answers:
+    - Mal
+- id: 446
+  question: What does "man" mean?
+  answers:
+    - one
+    - you
+- id: 447
+  question: How do you say "one"?
+  answers:
+    - man
+- id: 448
+  question: How do you say "you"?
+  answers:
+    - man
+- id: 449
+  question: What does "deutsch" mean?
+  answers:
+    - German
+- id: 450
+  question: How do you say "German"?
+  answers:
+    - deutsch
+- id: 451
+  question: What does "Moment" mean?
+  answers:
+    - moment
+- id: 452
+  question: How do you say "moment"?
+  answers:
+    - Moment
+- id: 453
+  question: What does "zwei" mean?
+  answers:
+    - two
+- id: 454
+  question: How do you say "two"?
+  answers:
+    - zwei
+- id: 455
+  question: What does "einige" mean?
+  answers:
+    - a few
+    - some
+- id: 456
+  question: How do you say "a few"?
+  answers:
+    - einige
+- id: 457
+  question: How do you say "some"?
+  answers:
+    - einige
+- id: 458
+  question: What does "die Bedeutung" mean?
+  answers:
+    - meaning
+- id: 459
+  question: How do you say "meaning"?
+  answers:
+    - die Bedeutung
+- id: 460
+  question: What does "der Tag" mean?
+  answers:
+    - day
+- id: 461
+  question: How do you say "day"?
+  answers:
+    - der Tag
+- id: 462
+  question: What does "klein" mean?
+  answers:
+    - small
+    - little
+- id: 463
+  question: How do you say "small"?
+  answers:
+    - klein
+- id: 464
+  question: How do you say "little"?
+  answers:
+    - klein
+- id: 465
+  question: What does "nehmen" mean?
+  answers:
+    - to take
+- id: 466
+  question: How do you say "to take"?
+  answers:
+    - nehmen
+- id: 467
+  question: What does "die Million" mean?
+  answers:
+    - million
+- id: 468
+  question: How do you say "million"?
+  answers:
+    - die Million
+- id: 469
+  question: What does "erkennen" mean?
+  answers:
+    - to recognize
+- id: 470
+  question: How do you say "to recognize"?
+  answers:
+    - erkennen
+- id: 471
+  question: What does "dafür" mean?
+  answers:
+    - for it
+- id: 472
+  question: How do you say "for it"?
+  answers:
+    - dafür
+- id: 473
+  question: What does "beginnen" mean?
+  answers:
+    - to begin
+- id: 474
+  question: How do you say "to begin"?
+  answers:
+    - beginnen
+- id: 475
+  question: What does "Geld" mean?
+  answers:
+    - money
+- id: 476
+  question: How do you say "money"?
+  answers:
+    - Geld
+- id: 477
+  question: What does "obwohl" mean?
+  answers:
+    - although
+- id: 478
+  question: How do you say "although"?
+  answers:
+    - obwohl
+- id: 479
+  question: What does "ob" mean?
+  answers:
+    - whether
+- id: 480
+  question: How do you say "whether"?
+  answers:
+    - ob
+- id: 481
+  question: What does "sozial" mean?
+  answers:
+    - social
+- id: 482
+  question: How do you say "social"?
+  answers:
+    - sozial
+- id: 483
+  question: What does "helfen" mean?
+  answers:
+    - to help
+- id: 484
+  question: How do you say "to help"?
+  answers:
+    - helfen
+- id: 485
+  question: What does "die Art" mean?
+  answers:
+    - kind
+    - type
+- id: 486
+  question: How do you say "kind"?
+  answers:
+    - die Art
+- id: 487
+  question: How do you say "type"?
+  answers:
+    - die Art
+- id: 488
+  question: What does "die Angst" mean?
+  answers:
+    - fear
+    - anxiety
+- id: 489
+  question: How do you say "fear"?
+  answers:
+    - die Angst
+- id: 490
+  question: How do you say "anxiety"?
+  answers:
+    - die Angst
+- id: 491
+  question: What does "also" mean?
+  answers:
+    - so
+    - therefore
+- id: 492
+  question: How do you say "so"?
+  answers:
+    - also
+- id: 493
+  question: How do you say "therefore"?
+  answers:
+    - also
+- id: 494
+  question: What does "gehen" mean?
+  answers:
+    - to go
+- id: 495
+  question: How do you say "to go"?
+  answers:
+    - gehen
+- id: 496
+  question: What does "glauben" mean?
+  answers:
+    - to believe
+- id: 497
+  question: How do you say "to believe"?
+  answers:
+    - glauben
+- id: 498
+  question: What does "fragen" mean?
+  answers:
+    - to ask
+- id: 499
+  question: How do you say "to ask"?
+  answers:
+    - fragen
+- id: 500
+  question: What does "setzen" mean?
+  answers:
+    - to set
+    - place
+    - put
+- id: 501
+  question: How do you say "to set"?
+  answers:
+    - setzen
+- id: 502
+  question: How do you say "place"?
+  answers:
+    - setzen
+- id: 503
+  question: How do you say "put"?
+  answers:
+    - setzen
+- id: 504
+  question: What does "weit" mean?
+  answers:
+    - wide
+    - far
+- id: 505
+  question: How do you say "wide"?
+  answers:
+    - weit
+- id: 506
+  question: How do you say "far"?
+  answers:
+    - weit
+- id: 507
+  question: What does "fallen" mean?
+  answers:
+    - to fall
+- id: 508
+  question: How do you say "to fall"?
+  answers:
+    - fallen
+- id: 509
+  question: What does "persönlich" mean?
+  answers:
+    - personal(ly)
+- id: 510
+  question: How do you say "personal(ly)"?
+  answers:
+    - persönlich
+- id: 511
+  question: What does "das Problem" mean?
+  answers:
+    - problem
+- id: 512
+  question: How do you say "problem"?
+  answers:
+    - das Problem
+- id: 513
+  question: What does "lang" mean?
+  answers:
+    - long
+- id: 514
+  question: How do you say "long"?
+  answers:
+    - lang
+- id: 515
+  question: What does "fünf" mean?
+  answers:
+    - five
+- id: 516
+  question: How do you say "five"?
+  answers:
+    - fünf
+- id: 517
+  question: What does "jed" mean?
+  answers:
+    - every
+    - each
+- id: 518
+  question: How do you say "every"?
+  answers:
+    - jed
+- id: 519
+  question: How do you say "each"?
+  answers:
+    - jed
+- id: 520
+  question: What does "wo" mean?
+  answers:
+    - where
+- id: 521
+  question: How do you say "where"?
+  answers:
+    - wo
+- id: 522
+  question: What does "Absatz" mean?
+  answers:
+    - sales; paragraph; heel
+- id: 523
+  question: How do you say "sales; paragraph; heel"?
+  answers:
+    - Absatz
+- id: 524
+  question: What does "je" mean?
+  answers:
+    - ever
+    - each
+- id: 525
+  question: How do you say "ever"?
+  answers:
+    - je
+- id: 526
+  question: How do you say "each"?
+  answers:
+    - je
+- id: 527
+  question: What does "das System" mean?
+  answers:
+    - system
+- id: 528
+  question: How do you say "system"?
+  answers:
+    - das System
+- id: 529
+  question: What does "planen" mean?
+  answers:
+    - to plan
+- id: 530
+  question: How do you say "to plan"?
+  answers:
+    - planen
+- id: 531
+  question: What does "unser" mean?
+  answers:
+    - our
+- id: 532
+  question: How do you say "our"?
+  answers:
+    - unser
+- id: 533
+  question: What does "nennen" mean?
+  answers:
+    - to name
+    - call (a thing/person something)
+- id: 534
+  question: How do you say "to name"?
+  answers:
+    - nennen
+- id: 535
+  question: How do you say "call (a thing/person something)"?
+  answers:
+    - nennen
+- id: 536
+  question: What does "Stadt" mean?
+  answers:
+    - city
+- id: 537
+  question: How do you say "city"?
+  answers:
+    - Stadt
+- id: 538
+  question: What does "die Woche" mean?
+  answers:
+    - week
+- id: 539
+  question: How do you say "week"?
+  answers:
+    - die Woche
+- id: 540
+  question: What does "neben" mean?
+  answers:
+    - beside
+    - next to
+- id: 541
+  question: How do you say "beside"?
+  answers:
+    - neben
+- id: 542
+  question: How do you say "next to"?
+  answers:
+    - neben
+- id: 543
+  question: What does "ganz" mean?
+  answers:
+    - whole
+    - all the
+- id: 544
+  question: How do you say "whole"?
+  answers:
+    - ganz
+- id: 545
+  question: How do you say "all the"?
+  answers:
+    - ganz
+- id: 546
+  question: What does "damit" mean?
+  answers:
+    - with it
+- id: 547
+  question: How do you say "with it"?
+  answers:
+    - damit
+- id: 548
+  question: What does "inzwischen" mean?
+  answers:
+    - in the meantime
+- id: 549
+  question: How do you say "in the meantime"?
+  answers:
+    - inzwischen
+- id: 550
+  question: What does "das Prozent" mean?
+  answers:
+    - percent
+- id: 551
+  question: How do you say "percent"?
+  answers:
+    - das Prozent
+- id: 552
+  question: What does "gering" mean?
+  answers:
+    - low (amount/level)
+    - small
+- id: 553
+  question: How do you say "low (amount/level)"?
+  answers:
+    - gering
+- id: 554
+  question: How do you say "small"?
+  answers:
+    - gering
+- id: 555
+  question: What does "Politik" mean?
+  answers:
+    - politics
+- id: 556
+  question: How do you say "politics"?
+  answers:
+    - Politik
+- id: 557
+  question: What does "der" mean?
+  answers:
+    - the
+- id: 558
+  question: How do you say "the"?
+  answers:
+    - der
+- id: 559
+  question: What does "um" mean?
+  answers:
+    - around
+    - at
+- id: 560
+  question: How do you say "around"?
+  answers:
+    - um
+- id: 561
+  question: How do you say "at"?
+  answers:
+    - um
+- id: 562
+  question: What does "wohl" mean?
+  answers:
+    - well
+- id: 563
+  question: How do you say "well"?
+  answers:
+    - wohl
+- id: 564
+  question: What does "die Sprache" mean?
+  answers:
+    - language
+- id: 565
+  question: How do you say "language"?
+  answers:
+    - die Sprache
+- id: 566
+  question: What does "wahrscheinlich" mean?
+  answers:
+    - probable; probably
+- id: 567
+  question: How do you say "probable; probably"?
+  answers:
+    - wahrscheinlich
+- id: 568
+  question: What does "welch" mean?
+  answers:
+    - which
+- id: 569
+  question: How do you say "which"?
+  answers:
+    - welch
+- id: 570
+  question: What does "lernen" mean?
+  answers:
+    - to learn
+- id: 571
+  question: How do you say "to learn"?
+  answers:
+    - lernen
+- id: 572
+  question: What does "politisch" mean?
+  answers:
+    - political
+- id: 573
+  question: How do you say "political"?
+  answers:
+    - politisch
+- id: 574
+  question: What does "das Bild" mean?
+  answers:
+    - picture
+- id: 575
+  question: How do you say "picture"?
+  answers:
+    - das Bild
+- id: 576
+  question: What does "der Schüler" mean?
+  answers:
+    - pupil
+    - student
+- id: 577
+  question: How do you say "pupil"?
+  answers:
+    - der Schüler
+- id: 578
+  question: How do you say "student"?
+  answers:
+    - der Schüler
+- id: 579
+  question: What does "der Staat" mean?
+  answers:
+    - state
+- id: 580
+  question: How do you say "state"?
+  answers:
+    - der Staat
+- id: 581
+  question: What does "durch" mean?
+  answers:
+    - through
+- id: 582
+  question: How do you say "through"?
+  answers:
+    - durch
+- id: 583
+  question: What does "mehr" mean?
+  answers:
+    - more
+- id: 584
+  question: How do you say "more"?
+  answers:
+    - mehr
+- id: 585
+  question: What does "wieder" mean?
+  answers:
+    - again
+- id: 586
+  question: How do you say "again"?
+  answers:
+    - wieder
+- id: 587
+  question: What does "arbeiten" mean?
+  answers:
+    - to work
+- id: 588
+  question: How do you say "to work"?
+  answers:
+    - arbeiten
+- id: 589
+  question: What does "deren" mean?
+  answers:
+    - whose
+- id: 590
+  question: How do you say "whose"?
+  answers:
+    - deren
+- id: 591
+  question: What does "wachsen" mean?
+  answers:
+    - to grow
+- id: 592
+  question: How do you say "to grow"?
+  answers:
+    - wachsen
+- id: 593
+  question: What does "sein" mean?
+  answers:
+    - his
+    - its
+- id: 594
+  question: How do you say "his"?
+  answers:
+    - sein
+- id: 595
+  question: How do you say "its"?
+  answers:
+    - sein
+- id: 596
+  question: What does "liegen" mean?
+  answers:
+    - to lie
+- id: 597
+  question: How do you say "to lie"?
+  answers:
+    - liegen
+- id: 598
+  question: What does "Leute" mean?
+  answers:
+    - people
+- id: 599
+  question: How do you say "people"?
+  answers:
+    - Leute
+- id: 600
+  question: What does "meinen" mean?
+  answers:
+    - to think
+    - have an opinion
+- id: 601
+  question: How do you say "to think"?
+  answers:
+    - meinen
+- id: 602
+  question: How do you say "have an opinion"?
+  answers:
+    - meinen
+- id: 603
+  question: What does "überhaupt" mean?
+  answers:
+    - at all
+    - generally
+- id: 604
+  question: How do you say "at all"?
+  answers:
+    - überhaupt
+- id: 605
+  question: How do you say "generally"?
+  answers:
+    - überhaupt
+- id: 606
+  question: What does "die Person" mean?
+  answers:
+    - person
+- id: 607
+  question: How do you say "person"?
+  answers:
+    - die Person
+- id: 608
+  question: What does "die Uhr" mean?
+  answers:
+    - clock
+- id: 609
+  question: How do you say "clock"?
+  answers:
+    - die Uhr
+- id: 610
+  question: What does "das Ergebnis" mean?
+  answers:
+    - result
+- id: 611
+  question: How do you say "result"?
+  answers:
+    - das Ergebnis
+- id: 612
+  question: What does "oder" mean?
+  answers:
+    - or
+- id: 613
+  question: How do you say "or"?
+  answers:
+    - oder
+- id: 614
+  question: What does "vor" mean?
+  answers:
+    - in front of
+    - before
+    - ago
+- id: 615
+  question: How do you say "in front of"?
+  answers:
+    - vor
+- id: 616
+  question: How do you say "before"?
+  answers:
+    - vor
+- id: 617
+  question: How do you say "ago"?
+  answers:
+    - vor
+- id: 618
+  question: What does "mich" mean?
+  answers:
+    - me
+- id: 619
+  question: How do you say "me"?
+  answers:
+    - mich
+- id: 620
+  question: What does "doch" mean?
+  answers:
+    - however
+    - still
+- id: 621
+  question: How do you say "however"?
+  answers:
+    - doch
+- id: 622
+  question: How do you say "still"?
+  answers:
+    - doch
+- id: 623
+  question: What does "dir" mean?
+  answers:
+    - '[to/for] you'
+- id: 624
+  question: How do you say "[to/for] you"?
+  answers:
+    - dir
+- id: 625
+  question: What does "die Information" mean?
+  answers:
+    - information
+- id: 626
+  question: How do you say "information"?
+  answers:
+    - die Information
+- id: 627
+  question: What does "der Blick" mean?
+  answers:
+    - look
+    - view
+    - glance
+- id: 628
+  question: How do you say "look"?
+  answers:
+    - der Blick
+- id: 629
+  question: How do you say "view"?
+  answers:
+    - der Blick
+- id: 630
+  question: How do you say "glance"?
+  answers:
+    - der Blick
+- id: 631
+  question: What does "dessen" mean?
+  answers:
+    - whose
+- id: 632
+  question: How do you say "whose"?
+  answers:
+    - dessen
+- id: 633
+  question: What does "schwarz" mean?
+  answers:
+    - black
+- id: 634
+  question: How do you say "black"?
+  answers:
+    - schwarz
+- id: 635
+  question: What does "das Auto" mean?
+  answers:
+    - car
+- id: 636
+  question: How do you say "car"?
+  answers:
+    - das Auto
+- id: 637
+  question: What does "wenig" mean?
+  answers:
+    - few;
+- id: 638
+  question: How do you say "few;"?
+  answers:
+    - wenig
+- id: 639
+  question: What does "laufen" mean?
+  answers:
+    - to run
+- id: 640
+  question: How do you say "to run"?
+  answers:
+    - laufen
+- id: 641
+  question: What does "hinter" mean?
+  answers:
+    - behind
+- id: 642
+  question: How do you say "behind"?
+  answers:
+    - hinter
+- id: 643
+  question: What does "der Meter" mean?
+  answers:
+    - meter
+- id: 644
+  question: How do you say "meter"?
+  answers:
+    - der Meter
+- id: 645
+  question: What does "geschehen" mean?
+  answers:
+    - to happen
+    - occur
+- id: 646
+  question: How do you say "to happen"?
+  answers:
+    - geschehen
+- id: 647
+  question: How do you say "occur"?
+  answers:
+    - geschehen
+- id: 648
+  question: What does "werden" mean?
+  answers:
+    - to become
+- id: 649
+  question: How do you say "to become"?
+  answers:
+    - werden
+- id: 650
+  question: What does "genau" mean?
+  answers:
+    - exact
+- id: 651
+  question: How do you say "exact"?
+  answers:
+    - genau
+- id: 652
+  question: What does "verstehen" mean?
+  answers:
+    - to understand
+- id: 653
+  question: How do you say "to understand"?
+  answers:
+    - verstehen
+- id: 654
+  question: What does "das Buch" mean?
+  answers:
+    - book
+- id: 655
+  question: How do you say "book"?
+  answers:
+    - das Buch
+- id: 656
+  question: What does "studieren" mean?
+  answers:
+    - to study
+- id: 657
+  question: How do you say "to study"?
+  answers:
+    - studieren
+- id: 658
+  question: What does "du" mean?
+  answers:
+    - you
+- id: 659
+  question: How do you say "you"?
+  answers:
+    - du
+- id: 660
+  question: What does "schnell" mean?
+  answers:
+    - fast
+- id: 661
+  question: How do you say "fast"?
+  answers:
+    - schnell
+- id: 662
+  question: What does "das Ding" mean?
+  answers:
+    - thing
+- id: 663
+  question: How do you say "thing"?
+  answers:
+    - das Ding
+- id: 664
+  question: What does "die Rolle" mean?
+  answers:
+    - role
+- id: 665
+  question: How do you say "role"?
+  answers:
+    - die Rolle
+- id: 666
+  question: What does "gelten" mean?
+  answers:
+    - to be valid
+- id: 667
+  question: How do you say "to be valid"?
+  answers:
+    - gelten
+- id: 668
+  question: What does "ziehen" mean?
+  answers:
+    - to pull
+    - move
+- id: 669
+  question: How do you say "to pull"?
+  answers:
+    - ziehen
+- id: 670
+  question: How do you say "move"?
+  answers:
+    - ziehen
+- id: 671
+  question: What does "manch" mean?
+  answers:
+    - some
+    - many a
+- id: 672
+  question: How do you say "some"?
+  answers:
+    - manch
+- id: 673
+  question: How do you say "many a"?
+  answers:
+    - manch
+- id: 674
+  question: What does "wegen" mean?
+  answers:
+    - because of
+- id: 675
+  question: How do you say "because of"?
+  answers:
+    - wegen
+- id: 676
+  question: What does "ein" mean?
+  answers:
+    - a
+    - an
+- id: 677
+  question: How do you say "a"?
+  answers:
+    - ein
+- id: 678
+  question: How do you say "an"?
+  answers:
+    - ein
+- id: 679
+  question: What does "da" mean?
+  answers:
+    - there
+- id: 680
+  question: How do you say "there"?
+  answers:
+    - da
+- id: 681
+  question: What does "die Frau" mean?
+  answers:
+    - woman
+    - wife
+    - Mrs.
+- id: 682
+  question: How do you say "woman"?
+  answers:
+    - die Frau
+- id: 683
+  question: How do you say "wife"?
+  answers:
+    - die Frau
+- id: 684
+  question: How do you say "Mrs."?
+  answers:
+    - die Frau
+- id: 685
+  question: What does "klar" mean?
+  answers:
+    - clear
+- id: 686
+  question: How do you say "clear"?
+  answers:
+    - klar
+- id: 687
+  question: What does "die Stunde" mean?
+  answers:
+    - hour
+- id: 688
+  question: How do you say "hour"?
+  answers:
+    - die Stunde
+- id: 689
+  question: What does "der Anfang" mean?
+  answers:
+    - beginning
+- id: 690
+  question: How do you say "beginning"?
+  answers:
+    - der Anfang
+- id: 691
+  question: What does "die Milliarde" mean?
+  answers:
+    - billion
+- id: 692
+  question: How do you say "billion"?
+  answers:
+    - die Milliarde
+- id: 693
+  question: What does "häufig" mean?
+  answers:
+    - frequent
+- id: 694
+  question: How do you say "frequent"?
+  answers:
+    - häufig
+- id: 695
+  question: What does "schon" mean?
+  answers:
+    - already
+- id: 696
+  question: How do you say "already"?
+  answers:
+    - schon
+- id: 697
+  question: What does "gut" mean?
+  answers:
+    - good
+- id: 698
+  question: How do you say "good"?
+  answers:
+    - gut
+- id: 699
+  question: What does "während" mean?
+  answers:
+    - during
+- id: 700
+  question: How do you say "during"?
+  answers:
+    - während
+- id: 701
+  question: What does "wichtig" mean?
+  answers:
+    - important
+- id: 702
+  question: How do you say "important"?
+  answers:
+    - wichtig
+- id: 703
+  question: What does "rund" mean?
+  answers:
+    - round
+- id: 704
+  question: How do you say "round"?
+  answers:
+    - rund
+- id: 705
+  question: What does "ändern" mean?
+  answers:
+    - to change
+- id: 706
+  question: How do you say "to change"?
+  answers:
+    - ändern
+- id: 707
+  question: What does "nur" mean?
+  answers:
+    - only
+- id: 708
+  question: How do you say "only"?
+  answers:
+    - nur
+- id: 709
+  question: What does "Hand" mean?
+  answers:
+    - hand
+- id: 710
+  question: How do you say "hand"?
+  answers:
+    - Hand
+- id: 711
+  question: What does "schlecht" mean?
+  answers:
+    - bad
+- id: 712
+  question: How do you say "bad"?
+  answers:
+    - schlecht
+- id: 713
+  question: What does "nutzen" mean?
+  answers:
+    - to use
+- id: 714
+  question: How do you say "to use"?
+  answers:
+    - nutzen
+- id: 715
+  question: What does "kriegen" mean?
+  answers:
+    - to get
+    - receive
+- id: 716
+  question: How do you say "to get"?
+  answers:
+    - kriegen
+- id: 717
+  question: How do you say "receive"?
+  answers:
+    - kriegen
+- id: 718
+  question: What does "es" mean?
+  answers:
+    - it
+- id: 719
+  question: How do you say "it"?
+  answers:
+    - es
+- id: 720
+  question: What does "machen" mean?
+  answers:
+    - to do
+    - make
+- id: 721
+  question: How do you say "to do"?
+  answers:
+    - machen
+- id: 722
+  question: How do you say "make"?
+  answers:
+    - machen
+- id: 723
+  question: What does "die Welt" mean?
+  answers:
+    - world
+- id: 724
+  question: How do you say "world"?
+  answers:
+    - die Welt
+- id: 725
+  question: What does "das Gespräch" mean?
+  answers:
+    - conversation
+- id: 726
+  question: How do you say "conversation"?
+  answers:
+    - das Gespräch
+- id: 727
+  question: What does "ebenso" mean?
+  answers:
+    - just as
+    - as much as
+    - as well
+- id: 728
+  question: How do you say "just as"?
+  answers:
+    - ebenso
+- id: 729
+  question: How do you say "as much as"?
+  answers:
+    - ebenso
+- id: 730
+  question: How do you say "as well"?
+  answers:
+    - ebenso
+- id: 731
+  question: What does "hoch" mean?
+  answers:
+    - high
+- id: 732
+  question: How do you say "high"?
+  answers:
+    - hoch
+- id: 733
+  question: What does "der Morgen" mean?
+  answers:
+    - morning
+- id: 734
+  question: How do you say "morning"?
+  answers:
+    - der Morgen
+- id: 735
+  question: What does "der Abend" mean?
+  answers:
+    - evening
+- id: 736
+  question: How do you say "evening"?
+  answers:
+    - der Abend
+- id: 737
+  question: What does "frei" mean?
+  answers:
+    - free
+- id: 738
+  question: How do you say "free"?
+  answers:
+    - frei
+- id: 739
+  question: What does "dadurch" mean?
+  answers:
+    - through it
+    - as a result
+- id: 740
+  question: How do you say "through it"?
+  answers:
+    - dadurch
+- id: 741
+  question: How do you say "as a result"?
+  answers:
+    - dadurch
+- id: 742
+  question: What does "denn" mean?
+  answers:
+    - because
+- id: 743
+  question: How do you say "because"?
+  answers:
+    - denn
+- id: 744
+  question: What does "Teil" mean?
+  answers:
+    - part
+- id: 745
+  question: How do you say "part"?
+  answers:
+    - Teil
+- id: 746
+  question: What does "darin" mean?
+  answers:
+    - in it
+    - inside
+- id: 747
+  question: How do you say "in it"?
+  answers:
+    - darin
+- id: 748
+  question: How do you say "inside"?
+  answers:
+    - darin
+- id: 749
+  question: What does "der Preis" mean?
+  answers:
+    - price
+    - prize
+- id: 750
+  question: How do you say "price"?
+  answers:
+    - der Preis
+- id: 751
+  question: How do you say "prize"?
+  answers:
+    - der Preis
+- id: 752
+  question: What does "wesentlich" mean?
+  answers:
+    - essential
+    - fundamental
+- id: 753
+  question: How do you say "essential"?
+  answers:
+    - wesentlich
+- id: 754
+  question: How do you say "fundamental"?
+  answers:
+    - wesentlich
+- id: 755
+  question: What does "dass" mean?
+  answers:
+    - that
+- id: 756
+  question: How do you say "that"?
+  answers:
+    - dass
+- id: 757
+  question: What does "bei" mean?
+  answers:
+    - by
+    - with
+    - at
+- id: 758
+  question: How do you say "by"?
+  answers:
+    - bei
+- id: 759
+  question: How do you say "with"?
+  answers:
+    - bei
+- id: 760
+  question: How do you say "at"?
+  answers:
+    - bei
+- id: 761
+  question: What does "kein" mean?
+  answers:
+    - "no"
+    - not a/an
+- id: 762
+  question: How do you say "no"?
+  answers:
+    - kein
+- id: 763
+  question: How do you say "not a/an"?
+  answers:
+    - kein
+- id: 764
+  question: What does "weiter" mean?
+  answers:
+    - further
+- id: 765
+  question: How do you say "further"?
+  answers:
+    - weiter
+- id: 766
+  question: What does "suchen" mean?
+  answers:
+    - to search
+    - look for
+- id: 767
+  question: How do you say "to search"?
+  answers:
+    - suchen
+- id: 768
+  question: How do you say "look for"?
+  answers:
+    - suchen
+- id: 769
+  question: What does "ja" mean?
+  answers:
+    - yes; certainly
+    - really
+- id: 770
+  question: How do you say "yes; certainly"?
+  answers:
+    - ja
+- id: 771
+  question: How do you say "really"?
+  answers:
+    - ja
+- id: 772
+  question: What does "ihm" mean?
+  answers:
+    - him
+    - it
+- id: 773
+  question: How do you say "him"?
+  answers:
+    - ihm
+- id: 774
+  question: How do you say "it"?
+  answers:
+    - ihm
+- id: 775
+  question: What does "Regel" mean?
+  answers:
+    - rule
+- id: 776
+  question: How do you say "rule"?
+  answers:
+    - Regel
+- id: 777
+  question: What does "halten" mean?
+  answers:
+    - to stop
+    - hold
+- id: 778
+  question: How do you say "to stop"?
+  answers:
+    - halten
+- id: 779
+  question: How do you say "hold"?
+  answers:
+    - halten
+- id: 780
+  question: What does "daran" mean?
+  answers:
+    - on it
+- id: 781
+  question: How do you say "on it"?
+  answers:
+    - daran
+- id: 782
+  question: What does "das Thema" mean?
+  answers:
+    - theme
+    - topic
+    - subject
+- id: 783
+  question: How do you say "theme"?
+  answers:
+    - das Thema
+- id: 784
+  question: How do you say "topic"?
+  answers:
+    - das Thema
+- id: 785
+  question: How do you say "subject"?
+  answers:
+    - das Thema
+- id: 786
+  question: What does "haben" mean?
+  answers:
+    - to have
+- id: 787
+  question: How do you say "to have"?
+  answers:
+    - haben
+- id: 788
+  question: What does "er" mean?
+  answers:
+    - he
+- id: 789
+  question: How do you say "he"?
+  answers:
+    - er
+- id: 790
+  question: What does "ihn" mean?
+  answers:
+    - him
+- id: 791
+  question: How do you say "him"?
+  answers:
+    - ihn
+- id: 792
+  question: What does "die Seite" mean?
+  answers:
+    - side
+    - page
+- id: 793
+  question: How do you say "side"?
+  answers:
+    - die Seite
+- id: 794
+  question: How do you say "page"?
+  answers:
+    - die Seite
+- id: 795
+  question: What does "an•nehmen" mean?
+  answers:
+    - to accept
+    - assume
+- id: 796
+  question: How do you say "to accept"?
+  answers:
+    - an•nehmen
+- id: 797
+  question: How do you say "assume"?
+  answers:
+    - an•nehmen
+- id: 798
+  question: What does "ihr" mean?
+  answers:
+    - you (
+- id: 799
+  question: How do you say "you ("?
+  answers:
+    - ihr
+- id: 800
+  question: What does "beschreiben" mean?
+  answers:
+    - to describe
+- id: 801
+  question: How do you say "to describe"?
+  answers:
+    - beschreiben
+- id: 802
+  question: What does "wie" mean?
+  answers:
+    - how; as
+- id: 803
+  question: How do you say "how; as"?
+  answers:
+    - wie
+- id: 804
+  question: What does "entstehen" mean?
+  answers:
+    - to originate
+- id: 805
+  question: How do you say "to originate"?
+  answers:
+    - entstehen
+- id: 806
+  question: What does "praktisch" mean?
+  answers:
+    - practical
+- id: 807
+  question: How do you say "practical"?
+  answers:
+    - praktisch
+- id: 808
+  question: What does "lassen" mean?
+  answers:
+    - to let
+    - allow
+    - have (something) done
+- id: 809
+  question: How do you say "to let"?
+  answers:
+    - lassen
+- id: 810
+  question: How do you say "allow"?
+  answers:
+    - lassen
+- id: 811
+  question: How do you say "have (something) done"?
+  answers:
+    - lassen
+- id: 812
+  question: What does "beide" mean?
+  answers:
+    - both
+- id: 813
+  question: How do you say "both"?
+  answers:
+    - beide
+- id: 814
+  question: What does "niemand" mean?
+  answers:
+    - nobody
+- id: 815
+  question: How do you say "nobody"?
+  answers:
+    - niemand
+- id: 816
+  question: What does "genug" mean?
+  answers:
+    - enough
+- id: 817
+  question: How do you say "enough"?
+  answers:
+    - genug
+- id: 818
+  question: What does "nun" mean?
+  answers:
+    - now
+- id: 819
+  question: How do you say "now"?
+  answers:
+    - nun
+- id: 820
+  question: What does "spielen" mean?
+  answers:
+    - to play
+- id: 821
+  question: How do you say "to play"?
+  answers:
+    - spielen
+- id: 822
+  question: What does "brauchen" mean?
+  answers:
+    - to need
+- id: 823
+  question: How do you say "to need"?
+  answers:
+    - brauchen
+- id: 824
+  question: What does "verlieren" mean?
+  answers:
+    - to lose
+- id: 825
+  question: How do you say "to lose"?
+  answers:
+    - verlieren
+- id: 826
+  question: What does "gemeinsam" mean?
+  answers:
+    - common
+    - mutual
+- id: 827
+  question: How do you say "common"?
+  answers:
+    - gemeinsam
+- id: 828
+  question: How do you say "mutual"?
+  answers:
+    - gemeinsam
+- id: 829
+  question: What does "groß" mean?
+  answers:
+    - big
+    - large
+    - great
+- id: 830
+  question: How do you say "big"?
+  answers:
+    - groß
+- id: 831
+  question: How do you say "large"?
+  answers:
+    - groß
+- id: 832
+  question: How do you say "great"?
+  answers:
+    - groß
+- id: 833
+  question: What does "schön" mean?
+  answers:
+    - beautiful
+    - pleasant
+    - good
+- id: 834
+  question: How do you say "beautiful"?
+  answers:
+    - schön
+- id: 835
+  question: How do you say "pleasant"?
+  answers:
+    - schön
+- id: 836
+  question: How do you say "good"?
+  answers:
+    - schön
+- id: 837
+  question: What does "reden" mean?
+  answers:
+    - to talk
+- id: 838
+  question: How do you say "to talk"?
+  answers:
+    - reden
+- id: 839
+  question: What does "dies" mean?
+  answers:
+    - this
+    - that
+- id: 840
+  question: How do you say "this"?
+  answers:
+    - dies
+- id: 841
+  question: How do you say "that"?
+  answers:
+    - dies
+- id: 842
+  question: What does "eben" mean?
+  answers:
+    - just now
+- id: 843
+  question: How do you say "just now"?
+  answers:
+    - eben
+- id: 844
+  question: What does "jedoch" mean?
+  answers:
+    - however
+- id: 845
+  question: How do you say "however"?
+  answers:
+    - jedoch
+- id: 846
+  question: What does "das Stück" mean?
+  answers:
+    - piece
+- id: 847
+  question: How do you say "piece"?
+  answers:
+    - das Stück
+- id: 848
+  question: What does "an•sehen" mean?
+  answers:
+    - to look at
+    - watch
+- id: 849
+  question: How do you say "to look at"?
+  answers:
+    - an•sehen
+- id: 850
+  question: How do you say "watch"?
+  answers:
+    - an•sehen
+- id: 851
+  question: What does "schauen" mean?
+  answers:
+    - to look
+- id: 852
+  question: How do you say "to look"?
+  answers:
+    - schauen
+- id: 853
+  question: What does "vier" mean?
+  answers:
+    - four
+- id: 854
+  question: How do you say "four"?
+  answers:
+    - vier
+- id: 855
+  question: What does "kurz" mean?
+  answers:
+    - short
+- id: 856
+  question: How do you say "short"?
+  answers:
+    - kurz
+- id: 857
+  question: What does "entsprechen" mean?
+  answers:
+    - to correspond to
+- id: 858
+  question: How do you say "to correspond to"?
+  answers:
+    - entsprechen
+- id: 859
+  question: What does "sogar" mean?
+  answers:
+    - even
+    - in fact
+- id: 860
+  question: How do you say "even"?
+  answers:
+    - sogar
+- id: 861
+  question: How do you say "in fact"?
+  answers:
+    - sogar
+- id: 862
+  question: What does "mehrere" mean?
+  answers:
+    - several
+- id: 863
+  question: How do you say "several"?
+  answers:
+    - mehrere
+- id: 864
+  question: What does "neu" mean?
+  answers:
+    - new
+- id: 865
+  question: How do you say "new"?
+  answers:
+    - neu
+- id: 866
+  question: What does "erste" mean?
+  answers:
+    - first
+- id: 867
+  question: How do you say "first"?
+  answers:
+    - erste
+- id: 868
+  question: What does "entwickeln" mean?
+  answers:
+    - to develop
+- id: 869
+  question: How do you say "to develop"?
+  answers:
+    - entwickeln
+- id: 870
+  question: What does "der Gott" mean?
+  answers:
+    - god; God
+- id: 871
+  question: How do you say "god; God"?
+  answers:
+    - der Gott
+- id: 872
+  question: What does "zeigen" mean?
+  answers:
+    - to show
+- id: 873
+  question: How do you say "to show"?
+  answers:
+    - zeigen
+- id: 874
+  question: What does "bisher" mean?
+  answers:
+    - until now
+- id: 875
+  question: How do you say "until now"?
+  answers:
+    - bisher
+- id: 876
+  question: What does "etwas" mean?
+  answers:
+    - something
+    - some
+    - a little
+- id: 877
+  question: How do you say "something"?
+  answers:
+    - etwas
+- id: 878
+  question: How do you say "some"?
+  answers:
+    - etwas
+- id: 879
+  question: How do you say "a little"?
+  answers:
+    - etwas
+- id: 880
+  question: What does "denken" mean?
+  answers:
+    - to think
+- id: 881
+  question: How do you say "to think"?
+  answers:
+    - denken
+- id: 882
+  question: What does "der Fall" mean?
+  answers:
+    - fall
+    - case
+- id: 883
+  question: How do you say "fall"?
+  answers:
+    - der Fall
+- id: 884
+  question: How do you say "case"?
+  answers:
+    - der Fall
+- id: 885
+  question: What does "Wasser" mean?
+  answers:
+    - water
+- id: 886
+  question: How do you say "water"?
+  answers:
+    - Wasser
+- id: 887
+  question: What does "sich" mean?
+  answers:
+    - self
+- id: 888
+  question: How do you say "self"?
+  answers:
+    - sich
+- id: 889
+  question: What does "an" mean?
+  answers:
+    - at
+    - "on"
+- id: 890
+  question: How do you say "at"?
+  answers:
+    - an
+- id: 891
+  question: How do you say "on"?
+  answers:
+    - an
+- id: 892
+  question: What does "über" mean?
+  answers:
+    - above
+    - over
+    - about
+- id: 893
+  question: How do you say "above"?
+  answers:
+    - über
+- id: 894
+  question: How do you say "over"?
+  answers:
+    - über
+- id: 895
+  question: How do you say "about"?
+  answers:
+    - über
+- id: 896
+  question: What does "wollen" mean?
+  answers:
+    - to want
+- id: 897
+  question: How do you say "to want"?
+  answers:
+    - wollen
+- id: 898
+  question: What does "versuchen" mean?
+  answers:
+    - to try
+    - attempt
+- id: 899
+  question: How do you say "to try"?
+  answers:
+    - versuchen
+- id: 900
+  question: How do you say "attempt"?
+  answers:
+    - versuchen
+- id: 901
+  question: What does "die Abbildung" mean?
+  answers:
+    - illustration
+- id: 902
+  question: How do you say "illustration"?
+  answers:
+    - die Abbildung
+- id: 903
+  question: What does "nie" mean?
+  answers:
+    - never
+- id: 904
+  question: How do you say "never"?
+  answers:
+    - nie
+- id: 905
+  question: What does "der Grund" mean?
+  answers:
+    - reason
+    - basis
+- id: 906
+  question: How do you say "reason"?
+  answers:
+    - der Grund
+- id: 907
+  question: How do you say "basis"?
+  answers:
+    - der Grund
+- id: 908
+  question: What does "die Minute" mean?
+  answers:
+    - minute
+- id: 909
+  question: How do you say "minute"?
+  answers:
+    - die Minute
+- id: 910
+  question: What does "die Situation" mean?
+  answers:
+    - situation
+- id: 911
+  question: How do you say "situation"?
+  answers:
+    - die Situation
+- id: 912
+  question: What does "mir" mean?
+  answers:
+    - '[to/for] me'
+- id: 913
+  question: How do you say "[to/for] me"?
+  answers:
+    - mir
+- id: 914
+  question: What does "der Herr" mean?
+  answers:
+    - gentleman
+    - Mr.
+- id: 915
+  question: How do you say "gentleman"?
+  answers:
+    - der Herr
+- id: 916
+  question: How do you say "Mr."?
+  answers:
+    - der Herr
+- id: 917
+  question: What does "vielleicht" mean?
+  answers:
+    - maybe
+    - perhap
+- id: 918
+  question: How do you say "maybe"?
+  answers:
+    - vielleicht
+- id: 919
+  question: How do you say "perhap"?
+  answers:
+    - vielleicht
+- id: 920
+  question: What does "allerdings" mean?
+  answers:
+    - though
+    - indeed
+    - certainly
+- id: 921
+  question: How do you say "though"?
+  answers:
+    - allerdings
+- id: 922
+  question: How do you say "indeed"?
+  answers:
+    - allerdings
+- id: 923
+  question: How do you say "certainly"?
+  answers:
+    - allerdings
+- id: 924
+  question: What does "davon" mean?
+  answers:
+    - from it
+    - about it
+    - thereof
+- id: 925
+  question: How do you say "from it"?
+  answers:
+    - davon
+- id: 926
+  question: How do you say "about it"?
+  answers:
+    - davon
+- id: 927
+  question: How do you say "thereof"?
+  answers:
+    - davon
+- id: 928
+  question: What does "manchmal" mean?
+  answers:
+    - sometimes
+- id: 929
+  question: How do you say "sometimes"?
+  answers:
+    - manchmal
+- id: 930
+  question: What does "was" mean?
+  answers:
+    - what
+- id: 931
+  question: How do you say "what"?
+  answers:
+    - was
+- id: 932
+  question: What does "sicher" mean?
+  answers:
+    - safe
+    - secure
+    - certain
+- id: 933
+  question: How do you say "safe"?
+  answers:
+    - sicher
+- id: 934
+  question: How do you say "secure"?
+  answers:
+    - sicher
+- id: 935
+  question: How do you say "certain"?
+  answers:
+    - sicher
+- id: 936
+  question: What does "die Funktion" mean?
+  answers:
+    - function
+- id: 937
+  question: How do you say "function"?
+  answers:
+    - die Funktion
+- id: 938
+  question: What does "scheinen" mean?
+  answers:
+    - to shine
+    - seem
+    - appear
+- id: 939
+  question: How do you say "to shine"?
+  answers:
+    - scheinen
+- id: 940
+  question: How do you say "seem"?
+  answers:
+    - scheinen
+- id: 941
+  question: How do you say "appear"?
+  answers:
+    - scheinen
+- id: 942
+  question: What does "die Universität" mean?
+  answers:
+    - university
+- id: 943
+  question: How do you say "university"?
+  answers:
+    - die Universität
+- id: 944
+  question: What does "das Jahrhundert" mean?
+  answers:
+    - century
+- id: 945
+  question: How do you say "century"?
+  answers:
+    - das Jahrhundert
+- id: 946
+  question: What does "mit" mean?
+  answers:
+    - with
+- id: 947
+  question: How do you say "with"?
+  answers:
+    - mit
+- id: 948
+  question: What does "für" mean?
+  answers:
+    - for
+- id: 949
+  question: How do you say "for"?
+  answers:
+    - für
+- id: 950
+  question: What does "all" mean?
+  answers:
+    - all
+- id: 951
+  question: How do you say "all"?
+  answers:
+    - all
+- id: 952
+  question: What does "Jahr" mean?
+  answers:
+    - year
+- id: 953
+  question: How do you say "year"?
+  answers:
+    - Jahr
+- id: 954
+  question: What does "einmal" mean?
+  answers:
+    - once
+- id: 955
+  question: How do you say "once"?
+  answers:
+    - einmal
+- id: 956
+  question: What does "die Richtung" mean?
+  answers:
+    - direction
+- id: 957
+  question: How do you say "direction"?
+  answers:
+    - die Richtung
+- id: 958
+  question: What does "der Schritt" mean?
+  answers:
+    - step
+- id: 959
+  question: How do you say "step"?
+  answers:
+    - der Schritt
+- id: 960
+  question: What does "ich" mean?
+  answers:
+    - I
+- id: 961
+  question: How do you say "I"?
+  answers:
+    - ich
+- id: 962
+  question: What does "stark" mean?
+  answers:
+    - strong
+- id: 963
+  question: How do you say "strong"?
+  answers:
+    - stark
+- id: 964
+  question: What does "die Straße" mean?
+  answers:
+    - street
+- id: 965
+  question: How do you say "street"?
+  answers:
+    - die Straße
+- id: 966
+  question: What does "warten" mean?
+  answers:
+    - to wait
+- id: 967
+  question: How do you say "to wait"?
+  answers:
+    - warten
+- id: 968
+  question: What does "der Sohn" mean?
+  answers:
+    - son
+- id: 969
+  question: How do you say "son"?
+  answers:
+    - der Sohn
+- id: 970
+  question: What does "sechs" mean?
+  answers:
+    - six
+- id: 971
+  question: How do you say "six"?
+  answers:
+    - sechs
+- id: 972
+  question: What does "endlich" mean?
+  answers:
+    - finally
+    - at last
+- id: 973
+  question: How do you say "finally"?
+  answers:
+    - endlich
+- id: 974
+  question: How do you say "at last"?
+  answers:
+    - endlich
+- id: 975
+  question: What does "gegen" mean?
+  answers:
+    - against
+- id: 976
+  question: How do you say "against"?
+  answers:
+    - gegen
+- id: 977
+  question: What does "dabei" mean?
+  answers:
+    - with it; there
+    - in the process
+- id: 978
+  question: How do you say "with it; there"?
+  answers:
+    - dabei
+- id: 979
+  question: How do you say "in the process"?
+  answers:
+    - dabei
+- id: 980
+  question: What does "ihnen" mean?
+  answers:
+    - '[to/for] them'
+- id: 981
+  question: How do you say "[to/for] them"?
+  answers:
+    - ihnen
+- id: 982
+  question: What does "stellen" mean?
+  answers:
+    - to place
+    - set (in a horizontal position)
+- id: 983
+  question: How do you say "to place"?
+  answers:
+    - stellen
+- id: 984
+  question: How do you say "set (in a horizontal position)"?
+  answers:
+    - stellen
+- id: 985
+  question: What does "best" mean?
+  answers:
+    - best
+- id: 986
+  question: How do you say "best"?
+  answers:
+    - best
+- id: 987
+  question: What does "sonst" mean?
+  answers:
+    - otherwise
+- id: 988
+  question: How do you say "otherwise"?
+  answers:
+    - sonst
+- id: 989
+  question: What does "früher" mean?
+  answers:
+    - earlier
+    - in former times
+- id: 990
+  question: How do you say "earlier"?
+  answers:
+    - früher
+- id: 991
+  question: How do you say "in former times"?
+  answers:
+    - früher
+- id: 992
+  question: What does "so" mean?
+  answers:
+    - so; thus
+    - this way
+    - such
+- id: 993
+  question: How do you say "so; thus"?
+  answers:
+    - so
+- id: 994
+  question: How do you say "this way"?
+  answers:
+    - so
+- id: 995
+  question: How do you say "such"?
+  answers:
+    - so
+- id: 996
+  question: What does "erstes" mean?
+  answers:
+    - first
+- id: 997
+  question: How do you say "first"?
+  answers:
+    - erstes
+- id: 998
+  question: What does "der Mensch" mean?
+  answers:
+    - human being
+    - person
+- id: 999
+  question: How do you say "human being"?
+  answers:
+    - der Mensch
+- id: 1000
+  question: How do you say "person"?
+  answers:
+    - der Mensch
+- id: 1001
+  question: What does "natürlich" mean?
+  answers:
+    - natural(ly)
+    - of course
+- id: 1002
+  question: How do you say "natural(ly)"?
+  answers:
+    - natürlich
+- id: 1003
+  question: How do you say "of course"?
+  answers:
+    - natürlich
+- id: 1004
+  question: What does "der Bereich" mean?
+  answers:
+    - area
+    - region
+- id: 1005
+  question: How do you say "area"?
+  answers:
+    - der Bereich
+- id: 1006
+  question: How do you say "region"?
+  answers:
+    - der Bereich
+- id: 1007
+  question: What does "selber" mean?
+  answers:
+    - self
+- id: 1008
+  question: How do you say "self"?
+  answers:
+    - selber
+- id: 1009
+  question: What does "die Gruppe" mean?
+  answers:
+    - group
+- id: 1010
+  question: How do you say "group"?
+  answers:
+    - die Gruppe
+- id: 1011
+  question: What does "sagen" mean?
+  answers:
+    - to say
+- id: 1012
+  question: How do you say "to say"?
+  answers:
+    - sagen
+- id: 1013
+  question: What does "bringen" mean?
+  answers:
+    - to bring
+    - take
+- id: 1014
+  question: How do you say "to bring"?
+  answers:
+    - bringen
+- id: 1015
+  question: How do you say "take"?
+  answers:
+    - bringen
+- id: 1016
+  question: What does "zunächst" mean?
+  answers:
+    - first
+    - at first
+    - for now
+- id: 1017
+  question: How do you say "first"?
+  answers:
+    - zunächst
+- id: 1018
+  question: How do you say "at first"?
+  answers:
+    - zunächst
+- id: 1019
+  question: How do you say "for now"?
+  answers:
+    - zunächst
+- id: 1020
+  question: What does "denen" mean?
+  answers:
+    - '[to/for] w'
+- id: 1021
+  question: How do you say "[to/for] w"?
+  answers:
+    - denen
+- id: 1022
+  question: What does "kaum" mean?
+  answers:
+    - hardly
+- id: 1023
+  question: How do you say "hardly"?
+  answers:
+    - kaum
+- id: 1024
+  question: What does "daher" mean?
+  answers:
+    - from there
+    - therefore
+- id: 1025
+  question: How do you say "from there"?
+  answers:
+    - daher
+- id: 1026
+  question: How do you say "therefore"?
+  answers:
+    - daher
+- id: 1027
+  question: What does "erscheinen" mean?
+  answers:
+    - to appear
+- id: 1028
+  question: How do you say "to appear"?
+  answers:
+    - erscheinen
+- id: 1029
+  question: What does "die Zukunft" mean?
+  answers:
+    - future
+- id: 1030
+  question: How do you say "future"?
+  answers:
+    - die Zukunft
+- id: 1031
+  question: What does "aus" mean?
+  answers:
+    - out
+    - out of
+    - from
+- id: 1032
+  question: How do you say "out"?
+  answers:
+    - aus
+- id: 1033
+  question: How do you say "out of"?
+  answers:
+    - aus
+- id: 1034
+  question: How do you say "from"?
+  answers:
+    - aus
+- id: 1035
+  question: What does "plötzlich" mean?
+  answers:
+    - sudden(ly)
+- id: 1036
+  question: How do you say "sudden(ly)"?
+  answers:
+    - plötzlich
+- id: 1037
+  question: What does "die Beziehung" mean?
+  answers:
+    - relation
+    - relationship
+- id: 1038
+  question: How do you say "relation"?
+  answers:
+    - die Beziehung
+- id: 1039
+  question: How do you say "relationship"?
+  answers:
+    - die Beziehung
+- id: 1040
+  question: What does "die Regierung" mean?
+  answers:
+    - government
+- id: 1041
+  question: How do you say "government"?
+  answers:
+    - die Regierung
+- id: 1042
+  question: What does "aus•gehen" mean?
+  answers:
+    - to go out; assume
+- id: 1043
+  question: How do you say "to go out; assume"?
+  answers:
+    - aus•gehen
+- id: 1044
+  question: What does "anderes" mean?
+  answers:
+    - other
+- id: 1045
+  question: How do you say "other"?
+  answers:
+    - anderes
+- id: 1046
+  question: What does "das Ende" mean?
+  answers:
+    - end
+- id: 1047
+  question: How do you say "end"?
+  answers:
+    - das Ende
+- id: 1048
+  question: What does "dich" mean?
+  answers:
+    - you (
+- id: 1049
+  question: How do you say "you ("?
+  answers:
+    - dich
+- id: 1050
+  question: What does "eher" mean?
+  answers:
+    - earlier
+    - more likely
+    - rather
+- id: 1051
+  question: How do you say "earlier"?
+  answers:
+    - eher
+- id: 1052
+  question: How do you say "more likely"?
+  answers:
+    - eher
+- id: 1053
+  question: How do you say "rather"?
+  answers:
+    - eher
+- id: 1054
+  question: What does "der Wert" mean?
+  answers:
+    - value
+- id: 1055
+  question: How do you say "value"?
+  answers:
+    - der Wert
+- id: 1056
+  question: What does "anderer" mean?
+  answers:
+    - other
+- id: 1057
+  question: How do you say "other"?
+  answers:
+    - anderer
+- id: 1058
+  question: What does "hier" mean?
+  answers:
+    - here
+- id: 1059
+  question: How do you say "here"?
+  answers:
+    - hier
+- id: 1060
+  question: What does "früh" mean?
+  answers:
+    - early
+- id: 1061
+  question: How do you say "early"?
+  answers:
+    - früh
+- id: 1062
+  question: What does "der Raum" mean?
+  answers:
+    - room
+    - space
+- id: 1063
+  question: How do you say "room"?
+  answers:
+    - der Raum
+- id: 1064
+  question: How do you say "space"?
+  answers:
+    - der Raum
+- id: 1065
+  question: What does "die Folge" mean?
+  answers:
+    - result
+    - consequence
+    - series
+- id: 1066
+  question: How do you say "result"?
+  answers:
+    - die Folge
+- id: 1067
+  question: How do you say "consequence"?
+  answers:
+    - die Folge
+- id: 1068
+  question: How do you say "series"?
+  answers:
+    - die Folge
+- id: 1069
+  question: What does "wenn" mean?
+  answers:
+    - if
+    - when
+- id: 1070
+  question: How do you say "if"?
+  answers:
+    - wenn
+- id: 1071
+  question: How do you say "when"?
+  answers:
+    - wenn
+- id: 1072
+  question: What does "das Gesicht" mean?
+  answers:
+    - face
+- id: 1073
+  question: How do you say "face"?
+  answers:
+    - das Gesicht
+- id: 1074
+  question: What does "gewiss" mean?
+  answers:
+    - certain
+- id: 1075
+  question: How do you say "certain"?
+  answers:
+    - gewiss
+- id: 1076
+  question: What does "bieten" mean?
+  answers:
+    - to offer
+- id: 1077
+  question: How do you say "to offer"?
+  answers:
+    - bieten
+- id: 1078
+  question: What does "das Unternehmen" mean?
+  answers:
+    - enterprise
+    - company
+- id: 1079
+  question: How do you say "enterprise"?
+  answers:
+    - das Unternehmen
+- id: 1080
+  question: How do you say "company"?
+  answers:
+    - das Unternehmen
+- id: 1081
+  question: What does "fühlen" mean?
+  answers:
+    - to feel
+- id: 1082
+  question: How do you say "to feel"?
+  answers:
+    - fühlen
+- id: 1083
+  question: What does "der Beruf" mean?
+  answers:
+    - occupation
+    - job
+    - profession
+- id: 1084
+  question: How do you say "occupation"?
+  answers:
+    - der Beruf
+- id: 1085
+  question: How do you say "job"?
+  answers:
+    - der Beruf
+- id: 1086
+  question: How do you say "profession"?
+  answers:
+    - der Beruf
+- id: 1087
+  question: What does "aber" mean?
+  answers:
+    - but
+- id: 1088
+  question: How do you say "but"?
+  answers:
+    - aber
+- id: 1089
+  question: What does "uns" mean?
+  answers:
+    - us
+- id: 1090
+  question: How do you say "us"?
+  answers:
+    - uns
+- id: 1091
+  question: What does "bisschen" mean?
+  answers:
+    - little bit
+- id: 1092
+  question: How do you say "little bit"?
+  answers:
+    - bisschen
+- id: 1093
+  question: What does "allein(e)" mean?
+  answers:
+    - alone
+- id: 1094
+  question: How do you say "alone"?
+  answers:
+    - allein(e)
+- id: 1095
+  question: What does "treffen" mean?
+  answers:
+    - to meet
+- id: 1096
+  question: How do you say "to meet"?
+  answers:
+    - treffen
+- id: 1097
+  question: What does "der Lehrer" mean?
+  answers:
+    - teacher
+- id: 1098
+  question: How do you say "teacher"?
+  answers:
+    - der Lehrer
+- id: 1099
+  question: What does "das Programm" mean?
+  answers:
+    - program
+    - schedule
+- id: 1100
+  question: How do you say "program"?
+  answers:
+    - das Programm
+- id: 1101
+  question: How do you say "schedule"?
+  answers:
+    - das Programm
+- id: 1102
+  question: What does "der Begriff" mean?
+  answers:
+    - concept
+    - idea
+    - term
+- id: 1103
+  question: How do you say "concept"?
+  answers:
+    - der Begriff
+- id: 1104
+  question: How do you say "idea"?
+  answers:
+    - der Begriff
+- id: 1105
+  question: How do you say "term"?
+  answers:
+    - der Begriff
+- id: 1106
+  question: What does "und" mean?
+  answers:
+    - and
+- id: 1107
+  question: How do you say "and"?
+  answers:
+    - und
+- id: 1108
+  question: What does "die Frage" mean?
+  answers:
+    - question
+- id: 1109
+  question: How do you say "question"?
+  answers:
+    - die Frage
+- id: 1110
+  question: What does "rot" mean?
+  answers:
+    - red
+- id: 1111
+  question: How do you say "red"?
+  answers:
+    - rot
+- id: 1112
+  question: What does "schließen" mean?
+  answers:
+    - to close
+- id: 1113
+  question: How do you say "to close"?
+  answers:
+    - schließen
+- id: 1114
+  question: What does "ergeben" mean?
+  answers:
+    - to result in
+    - yield
+- id: 1115
+  question: How do you say "to result in"?
+  answers:
+    - ergeben
+- id: 1116
+  question: How do you say "yield"?
+  answers:
+    - ergeben
+- id: 1117
+  question: What does "dann" mean?
+  answers:
+    - then
+- id: 1118
+  question: How do you say "then"?
+  answers:
+    - dann
+- id: 1119
+  question: What does "beziehungsweise" mean?
+  answers:
+    - and/or
+- id: 1120
+  question: How do you say "and/or"?
+  answers:
+    - beziehungsweise
+- id: 1121
+  question: What does "gar" mean?
+  answers:
+    - at all
+- id: 1122
+  question: How do you say "at all"?
+  answers:
+    - gar
+- id: 1123
+  question: What does "der Monat" mean?
+  answers:
+    - month
+- id: 1124
+  question: How do you say "month"?
+  answers:
+    - der Monat
+- id: 1125
+  question: What does "tragen" mean?
+  answers:
+    - to carry
+    - wear
+- id: 1126
+  question: How do you say "to carry"?
+  answers:
+    - tragen
+- id: 1127
+  question: How do you say "wear"?
+  answers:
+    - tragen
+- id: 1128
+  question: What does "gegenüber" mean?
+  answers:
+    - opposite
+- id: 1129
+  question: How do you say "opposite"?
+  answers:
+    - gegenüber
+- id: 1130
+  question: What does "die Wohnung" mean?
+  answers:
+    - apartment
+- id: 1131
+  question: How do you say "apartment"?
+  answers:
+    - die Wohnung
+- id: 1132
+  question: What does "sehr" mean?
+  answers:
+    - very
+- id: 1133
+  question: How do you say "very"?
+  answers:
+    - sehr
+- id: 1134
+  question: What does "damals" mean?
+  answers:
+    - back then
+- id: 1135
+  question: How do you say "back then"?
+  answers:
+    - damals
+- id: 1136
+  question: What does "die Form" mean?
+  answers:
+    - form
+    - shape
+- id: 1137
+  question: How do you say "form"?
+  answers:
+    - die Form
+- id: 1138
+  question: How do you say "shape"?
+  answers:
+    - die Form
+- id: 1139
+  question: What does "die Weise" mean?
+  answers:
+    - way
+    - manner
+- id: 1140
+  question: How do you say "way"?
+  answers:
+    - die Weise
+- id: 1141
+  question: How do you say "manner"?
+  answers:
+    - die Weise
+- id: 1142
+  question: What does "die Erfahrung" mean?
+  answers:
+    - experience
+- id: 1143
+  question: How do you say "experience"?
+  answers:
+    - die Erfahrung
+- id: 1144
+  question: What does "einzeln" mean?
+  answers:
+    - individual
+- id: 1145
+  question: How do you say "individual"?
+  answers:
+    - einzeln
+- id: 1146
+  question: What does "der Euro" mean?
+  answers:
+    - euro (unit of currency of the EU)
+- id: 1147
+  question: How do you say "euro (unit of currency of the EU)"?
+  answers:
+    - der Euro
+- id: 1148
+  question: What does "direkt" mean?
+  answers:
+    - direct
+    - straight
+- id: 1149
+  question: How do you say "direct"?
+  answers:
+    - direkt
+- id: 1150
+  question: How do you say "straight"?
+  answers:
+    - direkt
+- id: 1151
+  question: What does "letzt" mean?
+  answers:
+    - last
+- id: 1152
+  question: How do you say "last"?
+  answers:
+    - letzt
+- id: 1153
+  question: What does "zwar" mean?
+  answers:
+    - admittedly
+    - to be precise
+- id: 1154
+  question: How do you say "admittedly"?
+  answers:
+    - zwar
+- id: 1155
+  question: How do you say "to be precise"?
+  answers:
+    - zwar
+- id: 1156
+  question: What does "kennen" mean?
+  answers:
+    - to know
+- id: 1157
+  question: How do you say "to know"?
+  answers:
+    - kennen
+- id: 1158
+  question: What does "verschieden" mean?
+  answers:
+    - different
+- id: 1159
+  question: How do you say "different"?
+  answers:
+    - verschieden
+- id: 1160
+  question: What does "nächst" mean?
+  answers:
+    - next
+- id: 1161
+  question: How do you say "next"?
+  answers:
+    - nächst
+- id: 1162
+  question: What does "noch" mean?
+  answers:
+    - still
+    - yet
+- id: 1163
+  question: How do you say "still"?
+  answers:
+    - noch
+- id: 1164
+  question: How do you say "yet"?
+  answers:
+    - noch
+- id: 1165
+  question: What does "eigentlich" mean?
+  answers:
+    - actually
+- id: 1166
+  question: How do you say "actually"?
+  answers:
+    - eigentlich
+- id: 1167
+  question: What does "ohne" mean?
+  answers:
+    - without
+- id: 1168
+  question: How do you say "without"?
+  answers:
+    - ohne
+- id: 1169
+  question: What does "die Aufgabe" mean?
+  answers:
+    - assignment
+    - task
+    - job
+- id: 1170
+  question: How do you say "assignment"?
+  answers:
+    - die Aufgabe
+- id: 1171
+  question: How do you say "task"?
+  answers:
+    - die Aufgabe
+- id: 1172
+  question: How do you say "job"?
+  answers:
+    - die Aufgabe
+- id: 1173
+  question: What does "schaffen" mean?
+  answers:
+    - to manage; to create
+- id: 1174
+  question: How do you say "to manage; to create"?
+  answers:
+    - schaffen
+- id: 1175
+  question: What does "jetzt" mean?
+  answers:
+    - now
+- id: 1176
+  question: How do you say "now"?
+  answers:
+    - jetzt
+- id: 1177
+  question: What does "nichts" mean?
+  answers:
+    - nothing
+- id: 1178
+  question: How do you say "nothing"?
+  answers:
+    - nichts
+- id: 1179
+  question: What does "erklären" mean?
+  answers:
+    - to explain
+- id: 1180
+  question: How do you say "to explain"?
+  answers:
+    - erklären
+- id: 1181
+  question: What does "müssen" mean?
+  answers:
+    - to have to
+    - must
+- id: 1182
+  question: How do you say "to have to"?
+  answers:
+    - müssen
+- id: 1183
+  question: How do you say "must"?
+  answers:
+    - müssen
+- id: 1184
+  question: What does "sprechen" mean?
+  answers:
+    - to speak
+- id: 1185
+  question: How do you say "to speak"?
+  answers:
+    - sprechen
+- id: 1186
+  question: What does "verbinden" mean?
+  answers:
+    - to connect
+    - link
+- id: 1187
+  question: How do you say "to connect"?
+  answers:
+    - verbinden
+- id: 1188
+  question: How do you say "link"?
+  answers:
+    - verbinden

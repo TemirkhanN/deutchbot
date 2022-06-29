@@ -1,0 +1,3685 @@
+{
+    "der": {
+        "meaning": [
+            "the"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "und": {
+        "meaning": [
+            "and"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sein": {
+        "meaning": [
+            "his",
+            "its"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "in": {
+        "meaning": [
+            "in"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ein": {
+        "meaning": [
+            "a",
+            "an"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "zu": {
+        "meaning": [
+            "to",
+            "at"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "haben": {
+        "meaning": [
+            "to have"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ich": {
+        "meaning": [
+            "I"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "werden": {
+        "meaning": [
+            "to become"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sie": {
+        "meaning": [
+            "she",
+            "her"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "von": {
+        "meaning": [
+            "from",
+            "of"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "nicht": {
+        "meaning": [
+            "not"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "mit": {
+        "meaning": [
+            "with"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "es": {
+        "meaning": [
+            "it"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sich": {
+        "meaning": [
+            "self"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "auch": {
+        "meaning": [
+            "also",
+            "too"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "auf": {
+        "meaning": [
+            "on",
+            "at",
+            "in"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "für": {
+        "meaning": [
+            "for"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "an": {
+        "meaning": [
+            "at",
+            "on"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "er": {
+        "meaning": [
+            "he"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "so": {
+        "meaning": [
+            "so; thus",
+            "this way",
+            "such"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "dass": {
+        "meaning": [
+            "that"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "können": {
+        "meaning": [
+            "can",
+            "to be able"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "dies": {
+        "meaning": [
+            "this",
+            "that"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "als": {
+        "meaning": [
+            "as",
+            "when"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ihr": {
+        "meaning": [
+            "you ("
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ja": {
+        "meaning": [
+            "yes; certainly",
+            "really"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wie": {
+        "meaning": [
+            "how; as"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bei": {
+        "meaning": [
+            "by",
+            "with",
+            "at"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "oder": {
+        "meaning": [
+            "or"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wir": {
+        "meaning": [
+            "we"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "aber": {
+        "meaning": [
+            "but"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "dann": {
+        "meaning": [
+            "then"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "man": {
+        "meaning": [
+            "one",
+            "you"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "da": {
+        "meaning": [
+            "there"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "noch": {
+        "meaning": [
+            "still",
+            "yet"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "nach": {
+        "meaning": [
+            "after",
+            "toward"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "was": {
+        "meaning": [
+            "what"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "also": {
+        "meaning": [
+            "so",
+            "therefore"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "aus": {
+        "meaning": [
+            "out",
+            "out of",
+            "from"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "all": {
+        "meaning": [
+            "all"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wenn": {
+        "meaning": [
+            "if",
+            "when"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "nur": {
+        "meaning": [
+            "only"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "müssen": {
+        "meaning": [
+            "to have to",
+            "must"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sagen": {
+        "meaning": [
+            "to say"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "um": {
+        "meaning": [
+            "around",
+            "at"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "über": {
+        "meaning": [
+            "above",
+            "over",
+            "about"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "machen": {
+        "meaning": [
+            "to do",
+            "make"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "kein": {
+        "meaning": [
+            "no",
+            "not a\/an"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Jahr": {
+        "meaning": [
+            "year"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "du": {
+        "meaning": [
+            "you"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "mein": {
+        "meaning": [
+            "my"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "schon": {
+        "meaning": [
+            "already"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "vor": {
+        "meaning": [
+            "in front of",
+            "before",
+            "ago"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "durch": {
+        "meaning": [
+            "through"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "geben": {
+        "meaning": [
+            "to give"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "mehr": {
+        "meaning": [
+            "more"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "andere": {
+        "meaning": [
+            "other"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "anderer": {
+        "meaning": [
+            "other"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "anderes": {
+        "meaning": [
+            "other"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "viel": {
+        "meaning": [
+            "much",
+            "a lot",
+            "many"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "kommen": {
+        "meaning": [
+            "to come"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "jetzt": {
+        "meaning": [
+            "now"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sollen": {
+        "meaning": [
+            "should",
+            "ought to"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "mir": {
+        "meaning": [
+            "[to\/for] me"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wollen": {
+        "meaning": [
+            "to want"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ganz": {
+        "meaning": [
+            "whole",
+            "all the"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "mich": {
+        "meaning": [
+            "me"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "immer": {
+        "meaning": [
+            "always"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gehen": {
+        "meaning": [
+            "to go"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sehr": {
+        "meaning": [
+            "very"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "hier": {
+        "meaning": [
+            "here"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "doch": {
+        "meaning": [
+            "however",
+            "still"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bis": {
+        "meaning": [
+            "until"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "groß": {
+        "meaning": [
+            "big",
+            "large",
+            "great"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wieder": {
+        "meaning": [
+            "again"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Mal": {
+        "meaning": [
+            "time"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "zwei": {
+        "meaning": [
+            "two"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gut": {
+        "meaning": [
+            "good"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wissen": {
+        "meaning": [
+            "to know"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "neu": {
+        "meaning": [
+            "new"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sehen": {
+        "meaning": [
+            "to see"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "lassen": {
+        "meaning": [
+            "to let",
+            "allow",
+            "have (something) done"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "uns": {
+        "meaning": [
+            "us"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "weil": {
+        "meaning": [
+            "because"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "unter": {
+        "meaning": [
+            "under"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "denn": {
+        "meaning": [
+            "because"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "stehen": {
+        "meaning": [
+            "to stand"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "jed": {
+        "meaning": [
+            "every",
+            "each"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Beispiel": {
+        "meaning": [
+            "example"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Zeit": {
+        "meaning": [
+            "time"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "erste": {
+        "meaning": [
+            "first"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "erster": {
+        "meaning": [
+            "first"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "erstes": {
+        "meaning": [
+            "first"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ihm": {
+        "meaning": [
+            "him",
+            "it"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ihn": {
+        "meaning": [
+            "him"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wo": {
+        "meaning": [
+            "where"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "lang": {
+        "meaning": [
+            "long"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "eigentlich": {
+        "meaning": [
+            "actually"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "damit": {
+        "meaning": [
+            "with it"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "selbst": {
+        "meaning": [
+            "self"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "selber": {
+        "meaning": [
+            "self"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "unser": {
+        "meaning": [
+            "our"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "oben": {
+        "meaning": [
+            "above",
+            "up there"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "drei": {
+        "meaning": [
+            "three"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wenig": {
+        "meaning": [
+            "few;"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Frau": {
+        "meaning": [
+            "woman",
+            "wife",
+            "Mrs."
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Mensch": {
+        "meaning": [
+            "human being",
+            "person"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "deutsch": {
+        "meaning": [
+            "German"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Kind": {
+        "meaning": [
+            "child"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "etwas": {
+        "meaning": [
+            "something",
+            "some",
+            "a little"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Tag": {
+        "meaning": [
+            "day"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "nun": {
+        "meaning": [
+            "now"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "finden": {
+        "meaning": [
+            "to find"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "nichts": {
+        "meaning": [
+            "nothing"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bleiben": {
+        "meaning": [
+            "to stay"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sondern": {
+        "meaning": [
+            "but (on the contrary)"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "klein": {
+        "meaning": [
+            "small",
+            "little"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "zwischen": {
+        "meaning": [
+            "between"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "alt": {
+        "meaning": [
+            "old"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gegen": {
+        "meaning": [
+            "against"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "liegen": {
+        "meaning": [
+            "to lie"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ohne": {
+        "meaning": [
+            "without"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "nein": {
+        "meaning": [
+            "no"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "heute": {
+        "meaning": [
+            "today"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "weit": {
+        "meaning": [
+            "wide",
+            "far"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "heißen": {
+        "meaning": [
+            "to be called"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "denken": {
+        "meaning": [
+            "to think"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "eben": {
+        "meaning": [
+            "just now"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "erst": {
+        "meaning": [
+            "first",
+            "only",
+            "not until"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "natürlich": {
+        "meaning": [
+            "natural(ly)",
+            "of course"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ob": {
+        "meaning": [
+            "whether"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "hoch": {
+        "meaning": [
+            "high"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "beide": {
+        "meaning": [
+            "both"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Mann": {
+        "meaning": [
+            "man"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "einfach": {
+        "meaning": [
+            "simple",
+            "easy"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "vielleicht": {
+        "meaning": [
+            "maybe",
+            "perhap"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "dort": {
+        "meaning": [
+            "there"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "dabei": {
+        "meaning": [
+            "with it; there",
+            "in the process"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "einmal": {
+        "meaning": [
+            "once"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ihnen": {
+        "meaning": [
+            "[to\/for] them"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "welch": {
+        "meaning": [
+            "which"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "nehmen": {
+        "meaning": [
+            "to take"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "tun": {
+        "meaning": [
+            "to do"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "seit": {
+        "meaning": [
+            "since",
+            "for (a period of time)"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "dürfen": {
+        "meaning": [
+            "to be allowed",
+            "may"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "glauben": {
+        "meaning": [
+            "to believe"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "halten": {
+        "meaning": [
+            "to stop",
+            "hold"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "nennen": {
+        "meaning": [
+            "to name",
+            "call (a thing\/person something)"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Land": {
+        "meaning": [
+            "land",
+            "country",
+            "state"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "letzt": {
+        "meaning": [
+            "last"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gleich": {
+        "meaning": [
+            "same; right away",
+            "just"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "solch": {
+        "meaning": [
+            "such"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "dazu": {
+        "meaning": [
+            "in addition",
+            "furthermore",
+            "to that"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "mögen": {
+        "meaning": [
+            "to like"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Frage": {
+        "meaning": [
+            "question"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gar": {
+        "meaning": [
+            "at all"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "zeigen": {
+        "meaning": [
+            "to show"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "führen": {
+        "meaning": [
+            "to lead"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "möglich": {
+        "meaning": [
+            "possible"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sprechen": {
+        "meaning": [
+            "to speak"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "während": {
+        "meaning": [
+            "during"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Haus": {
+        "meaning": [
+            "house"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Fall": {
+        "meaning": [
+            "fall",
+            "case"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "eigen": {
+        "meaning": [
+            "one&#;s own"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bringen": {
+        "meaning": [
+            "to bring",
+            "take"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Leute": {
+        "meaning": [
+            "people"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "schön": {
+        "meaning": [
+            "beautiful",
+            "pleasant",
+            "good"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "einige": {
+        "meaning": [
+            "a few",
+            "some"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bereits": {
+        "meaning": [
+            "already"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Arbeit": {
+        "meaning": [
+            "(noun"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "leben": {
+        "meaning": [
+            "to live"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "fahren": {
+        "meaning": [
+            "to drive",
+            "ride",
+            "go (by vehicle)"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "meinen": {
+        "meaning": [
+            "to think",
+            "have an opinion"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "spät": {
+        "meaning": [
+            "late"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "etwa": {
+        "meaning": [
+            "about",
+            "approximately"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wer": {
+        "meaning": [
+            "who",
+            "whoever"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Prozent": {
+        "meaning": [
+            "percent"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "fragen": {
+        "meaning": [
+            "to ask"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gerade": {
+        "meaning": [
+            "just",
+            "just now"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wichtig": {
+        "meaning": [
+            "important"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "zwar": {
+        "meaning": [
+            "admittedly",
+            "to be precise"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Hand": {
+        "meaning": [
+            "hand"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wirklich": {
+        "meaning": [
+            "re"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "kennen": {
+        "meaning": [
+            "to know"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "weitere(r\/s)": {
+        "meaning": [
+            "additional"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "genau": {
+        "meaning": [
+            "exact"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "jung": {
+        "meaning": [
+            "young"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gelten": {
+        "meaning": [
+            "to be valid"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Stadt": {
+        "meaning": [
+            "city"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Herr": {
+        "meaning": [
+            "gentleman",
+            "Mr."
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Teil": {
+        "meaning": [
+            "part"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Problem": {
+        "meaning": [
+            "problem"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Welt": {
+        "meaning": [
+            "world"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "jedoch": {
+        "meaning": [
+            "however"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "stellen": {
+        "meaning": [
+            "to place",
+            "set (in a horizontal position)"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "darauf": {
+        "meaning": [
+            "on it",
+            "to it"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bisschen": {
+        "meaning": [
+            "little bit"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bissel": {
+        "meaning": [
+            "little bit"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "vier": {
+        "meaning": [
+            "four"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "nie": {
+        "meaning": [
+            "never"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "spielen": {
+        "meaning": [
+            "to play"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "denen": {
+        "meaning": [
+            "[to\/for] w"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Recht": {
+        "meaning": [
+            "right",
+            "law"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "arbeiten": {
+        "meaning": [
+            "to work"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "brauchen": {
+        "meaning": [
+            "to need"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "folgen": {
+        "meaning": [
+            "to follow"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "lernen": {
+        "meaning": [
+            "to learn"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Ende": {
+        "meaning": [
+            "end"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "kurz": {
+        "meaning": [
+            "short"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Million": {
+        "meaning": [
+            "million"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "stark": {
+        "meaning": [
+            "strong"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Schule": {
+        "meaning": [
+            "school"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Woche": {
+        "meaning": [
+            "week"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bestehen": {
+        "meaning": [
+            "to exist",
+            "insist",
+            "pass (an exam)"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "richtig": {
+        "meaning": [
+            "right",
+            "correct"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "dich": {
+        "meaning": [
+            "you ("
+        ],
+        "description": "",
+        "examples": []
+    },
+    "dafür": {
+        "meaning": [
+            "for it"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sowie": {
+        "meaning": [
+            "as well as"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "oft": {
+        "meaning": [
+            "often"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Vater": {
+        "meaning": [
+            "father"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Seite": {
+        "meaning": [
+            "side",
+            "page"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "verschieden": {
+        "meaning": [
+            "different"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "halt": {
+        "meaning": [
+            "just",
+            "simply"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Leben": {
+        "meaning": [
+            "life"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "allerdings": {
+        "meaning": [
+            "though",
+            "indeed",
+            "certainly"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "verstehen": {
+        "meaning": [
+            "to understand"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "fast": {
+        "meaning": [
+            "almost"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wohl": {
+        "meaning": [
+            "well"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bestimmt": {
+        "meaning": [
+            "special",
+            "certain"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Mutter": {
+        "meaning": [
+            "mother"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "setzen": {
+        "meaning": [
+            "to set",
+            "place",
+            "put"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "überhaupt": {
+        "meaning": [
+            "at all",
+            "generally"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Grund": {
+        "meaning": [
+            "reason",
+            "basis"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "besser": {
+        "meaning": [
+            "better"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "dir": {
+        "meaning": [
+            "[to\/for] you"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "schnell": {
+        "meaning": [
+            "fast"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bekommen": {
+        "meaning": [
+            "to get",
+            "receive"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gern(e)": {
+        "meaning": [
+            "gladly"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Auge": {
+        "meaning": [
+            "eye"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sicher": {
+        "meaning": [
+            "safe",
+            "secure",
+            "certain"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "davon": {
+        "meaning": [
+            "from it",
+            "about it",
+            "thereof"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "beginnen": {
+        "meaning": [
+            "to begin"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "erzählen": {
+        "meaning": [
+            "to narrate",
+            "tell"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "versuchen": {
+        "meaning": [
+            "to try",
+            "attempt"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "besonders": {
+        "meaning": [
+            "especially"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Wort": {
+        "meaning": [
+            "word"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "neben": {
+        "meaning": [
+            "beside",
+            "next to"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "schreiben": {
+        "meaning": [
+            "to write"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "warum": {
+        "meaning": [
+            "why"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "nächst": {
+        "meaning": [
+            "next"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "laufen": {
+        "meaning": [
+            "to run"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Geld": {
+        "meaning": [
+            "money"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "erklären": {
+        "meaning": [
+            "to explain"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Sache": {
+        "meaning": [
+            "thing"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Art": {
+        "meaning": [
+            "kind",
+            "type"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "politisch": {
+        "meaning": [
+            "political"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "entsprechen": {
+        "meaning": [
+            "to correspond to"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "klar": {
+        "meaning": [
+            "clear"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "schwer": {
+        "meaning": [
+            "difficult",
+            "heavy"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Bereich": {
+        "meaning": [
+            "area",
+            "region"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "allein(e)": {
+        "meaning": [
+            "alone"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "kaum": {
+        "meaning": [
+            "hardly"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Weg": {
+        "meaning": [
+            "way"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sitzen": {
+        "meaning": [
+            "to sit",
+            "to be sitting"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Stunde": {
+        "meaning": [
+            "hour"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "einzeln": {
+        "meaning": [
+            "individual"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "deshalb": {
+        "meaning": [
+            "for that reason"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "deren": {
+        "meaning": [
+            "whose"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ziehen": {
+        "meaning": [
+            "to pull",
+            "move"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "na": {
+        "meaning": [
+            "well"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "beziehungsweise": {
+        "meaning": [
+            "and\/or"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sogar": {
+        "meaning": [
+            "even",
+            "in fact"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Name": {
+        "meaning": [
+            "name"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "damals": {
+        "meaning": [
+            "back then"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "fünf": {
+        "meaning": [
+            "five"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Geschichte": {
+        "meaning": [
+            "history",
+            "story"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wegen": {
+        "meaning": [
+            "because of"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Gesellschaft": {
+        "meaning": [
+            "society",
+            "company"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "scheinen": {
+        "meaning": [
+            "to shine",
+            "seem",
+            "appear"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "d": {
+        "meaning": [
+            "above it",
+            "about it"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "fallen": {
+        "meaning": [
+            "to fall"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Kopf": {
+        "meaning": [
+            "head"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gehören": {
+        "meaning": [
+            "to belong to"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "entstehen": {
+        "meaning": [
+            "to originate"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bekannt": {
+        "meaning": [
+            "wellknow"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "erhalten": {
+        "meaning": [
+            "to receive"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Paar": {
+        "meaning": [
+            "pair",
+            "couple"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "leicht": {
+        "meaning": [
+            "light",
+            "easy"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Möglichkeit": {
+        "meaning": [
+            "possibility"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "treffen": {
+        "meaning": [
+            "to meet"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "hinter": {
+        "meaning": [
+            "behind"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sonst": {
+        "meaning": [
+            "otherwise"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "daran": {
+        "meaning": [
+            "on it"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Unternehmen": {
+        "meaning": [
+            "enterprise",
+            "company"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "weiter": {
+        "meaning": [
+            "further"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "suchen": {
+        "meaning": [
+            "to search",
+            "look for"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Bild": {
+        "meaning": [
+            "picture"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Buch": {
+        "meaning": [
+            "book"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "legen": {
+        "meaning": [
+            "to put",
+            "lay (in a horizontal position)"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Wasser": {
+        "meaning": [
+            "water"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Stelle": {
+        "meaning": [
+            "place"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "vor•stellen": {
+        "meaning": [
+            "to introduce",
+            "imagine"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Form": {
+        "meaning": [
+            "form",
+            "shape"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "handeln": {
+        "meaning": [
+            "to deal",
+            "trade"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Mark": {
+        "meaning": [
+            "mark"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Entwicklung": {
+        "meaning": [
+            "development"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Monat": {
+        "meaning": [
+            "month"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "erreichen": {
+        "meaning": [
+            "to reach",
+            "achieve"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "anders": {
+        "meaning": [
+            "in the end",
+            "finally"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "tragen": {
+        "meaning": [
+            "to carry",
+            "wear"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "eher": {
+        "meaning": [
+            "earlier",
+            "more likely",
+            "rather"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Familie": {
+        "meaning": [
+            "family"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Morgen": {
+        "meaning": [
+            "morning"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "je": {
+        "meaning": [
+            "ever",
+            "each"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Abend": {
+        "meaning": [
+            "evening"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "zehn": {
+        "meaning": [
+            "ten"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "darin": {
+        "meaning": [
+            "in it",
+            "inside"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "rund": {
+        "meaning": [
+            "round"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Aufgabe": {
+        "meaning": [
+            "assignment",
+            "task",
+            "job"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "frei": {
+        "meaning": [
+            "free"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Universität": {
+        "meaning": [
+            "university"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "schaffen": {
+        "meaning": [
+            "to manage; to create"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Sinn": {
+        "meaning": [
+            "sense",
+            "meaning"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "früh": {
+        "meaning": [
+            "early"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "lesen": {
+        "meaning": [
+            "to read"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Staat": {
+        "meaning": [
+            "state"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Ziel": {
+        "meaning": [
+            "goal",
+            "destination"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gegenüber": {
+        "meaning": [
+            "opposite"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Freund": {
+        "meaning": [
+            "friend"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Thema": {
+        "meaning": [
+            "theme",
+            "topic",
+            "subject"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "unterschiedlich": {
+        "meaning": [
+            "different"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "daher": {
+        "meaning": [
+            "from there",
+            "therefore"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Person": {
+        "meaning": [
+            "person"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "schlecht": {
+        "meaning": [
+            "bad"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Euro": {
+        "meaning": [
+            "euro (unit of currency of the EU)"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "obwohl": {
+        "meaning": [
+            "although"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Nacht": {
+        "meaning": [
+            "night"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "verlieren": {
+        "meaning": [
+            "to lose"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Ding": {
+        "meaning": [
+            "thing"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "deutlich": {
+        "meaning": [
+            "clear"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "allgemein": {
+        "meaning": [
+            "general"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Raum": {
+        "meaning": [
+            "room",
+            "space"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Blick": {
+        "meaning": [
+            "look",
+            "view",
+            "glance"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "einzig": {
+        "meaning": [
+            "only",
+            "single"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "dar•stellen": {
+        "meaning": [
+            "to depict",
+            "portray"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Platz": {
+        "meaning": [
+            "number"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gemeinsam": {
+        "meaning": [
+            "common",
+            "mutual"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "nah(e)": {
+        "meaning": [
+            "near",
+            "close"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das System": {
+        "meaning": [
+            "system"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Uhr": {
+        "meaning": [
+            "clock"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "dessen": {
+        "meaning": [
+            "whose"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Eltern": {
+        "meaning": [
+            "parents"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "erkennen": {
+        "meaning": [
+            "to recognize"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "entwickeln": {
+        "meaning": [
+            "to develop"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "früher": {
+        "meaning": [
+            "earlier",
+            "in former times"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Straße": {
+        "meaning": [
+            "street"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "reden": {
+        "meaning": [
+            "to talk"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "voll": {
+        "meaning": [
+            "full"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "aus•sehen": {
+        "meaning": [
+            "to appear",
+            "look (a certain way)"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "erscheinen": {
+        "meaning": [
+            "to appear"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "mehrere": {
+        "meaning": [
+            "several"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Minute": {
+        "meaning": [
+            "minute"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "zunächst": {
+        "meaning": [
+            "first",
+            "at first",
+            "for now"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Gruppe": {
+        "meaning": [
+            "group"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Wert": {
+        "meaning": [
+            "value"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Gesicht": {
+        "meaning": [
+            "face"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "irgendwie": {
+        "meaning": [
+            "somehow"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Sprache": {
+        "meaning": [
+            "language"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bilden": {
+        "meaning": [
+            "to form",
+            "educate"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "dadurch": {
+        "meaning": [
+            "through it",
+            "as a result"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "direkt": {
+        "meaning": [
+            "direct",
+            "straight"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "international": {
+        "meaning": [
+            "international"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sozial": {
+        "meaning": [
+            "social"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "an•fangen": {
+        "meaning": [
+            "to begin"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "best": {
+        "meaning": [
+            "best"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bisher": {
+        "meaning": [
+            "until now"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "erwarten": {
+        "meaning": [
+            "to expect"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Anfang": {
+        "meaning": [
+            "beginning"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "nämlich": {
+        "meaning": [
+            "namely"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "jen": {
+        "meaning": [
+            "that",
+            "those"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wohnen": {
+        "meaning": [
+            "to live"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "rot": {
+        "meaning": [
+            "red"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "offen": {
+        "meaning": [
+            "open"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Ort": {
+        "meaning": [
+            "place",
+            "town",
+            "location"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "naja": {
+        "meaning": [
+            "well &#;"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Moment": {
+        "meaning": [
+            "moment"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "betreffen": {
+        "meaning": [
+            "to affect",
+            "concern"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "meist": {
+        "meaning": [
+            "most"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "warten": {
+        "meaning": [
+            "to wait"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Folge": {
+        "meaning": [
+            "result",
+            "consequence",
+            "series"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ab": {
+        "meaning": [
+            "from"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "besonder": {
+        "meaning": [
+            "special"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gewiss": {
+        "meaning": [
+            "certain"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Interesse": {
+        "meaning": [
+            "interest"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "manchmal": {
+        "meaning": [
+            "sometimes"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Milliarde": {
+        "meaning": [
+            "billion"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Rolle": {
+        "meaning": [
+            "role"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "jemand": {
+        "meaning": [
+            "someone  ."
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Schüler": {
+        "meaning": [
+            "pupil",
+            "student"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Bedeutung": {
+        "meaning": [
+            "meaning"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Text": {
+        "meaning": [
+            "text"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ach": {
+        "meaning": [
+            "oh"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Ergebnis": {
+        "meaning": [
+            "result"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "helfen": {
+        "meaning": [
+            "to help"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Krieg": {
+        "meaning": [
+            "war"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sechs": {
+        "meaning": [
+            "six"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "niemand": {
+        "meaning": [
+            "nobody"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gewinnen": {
+        "meaning": [
+            "to win"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "halb": {
+        "meaning": [
+            "half"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "schließen": {
+        "meaning": [
+            "to close"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Weise": {
+        "meaning": [
+            "way",
+            "manner"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Regierung": {
+        "meaning": [
+            "government"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wahrscheinlich": {
+        "meaning": [
+            "probable; probably"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "europäisch": {
+        "meaning": [
+            "European"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Stück": {
+        "meaning": [
+            "piece"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Wohnung": {
+        "meaning": [
+            "apartment"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "fühlen": {
+        "meaning": [
+            "to feel"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Gespräch": {
+        "meaning": [
+            "conversation"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bieten": {
+        "meaning": [
+            "to offer"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "interessieren": {
+        "meaning": [
+            "to interest"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wesentlich": {
+        "meaning": [
+            "essential",
+            "fundamental"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "erinnern": {
+        "meaning": [
+            "to remind"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Meter": {
+        "meaning": [
+            "meter"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "her": {
+        "meaning": [
+            "in a direction) away from"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Punkt": {
+        "meaning": [
+            "dot",
+            "point",
+            "period"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Situation": {
+        "meaning": [
+            "situation"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ähnlich": {
+        "meaning": [
+            "similar"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ergeben": {
+        "meaning": [
+            "to result in",
+            "yield"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "dagegen": {
+        "meaning": [
+            "against it",
+            "on the other hand"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "häufig": {
+        "meaning": [
+            "frequent"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Lehrer": {
+        "meaning": [
+            "teacher"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "an•bieten": {
+        "meaning": [
+            "to offer"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ebenso": {
+        "meaning": [
+            "just as",
+            "as much as",
+            "as well"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "studieren": {
+        "meaning": [
+            "to study"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "danach": {
+        "meaning": [
+            "after it",
+            "afterwards"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Preis": {
+        "meaning": [
+            "price",
+            "prize"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Abbildung": {
+        "meaning": [
+            "illustration"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Begriff": {
+        "meaning": [
+            "concept",
+            "idea",
+            "term"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Funktion": {
+        "meaning": [
+            "function"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "verbinden": {
+        "meaning": [
+            "to connect",
+            "link"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ziemlich": {
+        "meaning": [
+            "quite",
+            "fairly"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "an•sehen": {
+        "meaning": [
+            "to look at",
+            "watch"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Boden": {
+        "meaning": [
+            "ground",
+            "floor",
+            "bottom"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "fehlen": {
+        "meaning": [
+            "to lack",
+            "to be missing",
+            "be absent"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Jahrhundert": {
+        "meaning": [
+            "century"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Sohn": {
+        "meaning": [
+            "son"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Werk": {
+        "meaning": [
+            "work; factory"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bedeuten": {
+        "meaning": [
+            "to mean"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "schwarz": {
+        "meaning": [
+            "black"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "vergleichen": {
+        "meaning": [
+            "to compare"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "außerdem": {
+        "meaning": [
+            "besides",
+            "in addition"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "inzwischen": {
+        "meaning": [
+            "in the meantime"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "sofort": {
+        "meaning": [
+            "immediately"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "steigen": {
+        "meaning": [
+            "to climb",
+            "increase"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Stimme": {
+        "meaning": [
+            "voice"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "acht": {
+        "meaning": [
+            "eight"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "plötzlich": {
+        "meaning": [
+            "sudden(ly)"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Rahmen": {
+        "meaning": [
+            "frame",
+            "framework"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Richtung": {
+        "meaning": [
+            "direction"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "völlig": {
+        "meaning": [
+            "complete"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "nutzen": {
+        "meaning": [
+            "to use"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Programm": {
+        "meaning": [
+            "program",
+            "schedule"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Angst": {
+        "meaning": [
+            "fear",
+            "anxiety"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gering": {
+        "meaning": [
+            "low (amount\/level)",
+            "small"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Information": {
+        "meaning": [
+            "information"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Kunst": {
+        "meaning": [
+            "art"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Musik": {
+        "meaning": [
+            "music"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "schauen": {
+        "meaning": [
+            "to look"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "schwierig": {
+        "meaning": [
+            "difficult"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Politik": {
+        "meaning": [
+            "politics"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "verlassen": {
+        "meaning": [
+            "to leave"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "manch": {
+        "meaning": [
+            "some",
+            "many a"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "bald": {
+        "meaning": [
+            "soon"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ein•setzen": {
+        "meaning": [
+            "to put in",
+            "insert"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Beruf": {
+        "meaning": [
+            "occupation",
+            "job",
+            "profession"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "praktisch": {
+        "meaning": [
+            "practical"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "ändern": {
+        "meaning": [
+            "to change"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "genug": {
+        "meaning": [
+            "enough"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "persönlich": {
+        "meaning": [
+            "personal(ly)"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "wachsen": {
+        "meaning": [
+            "to grow"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "aus•gehen": {
+        "meaning": [
+            "to go out; assume"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Regel": {
+        "meaning": [
+            "rule"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Schritt": {
+        "meaning": [
+            "step"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "jährig": {
+        "meaning": [
+            "yearold"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "Absatz": {
+        "meaning": [
+            "sales; paragraph; heel"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "geschehen": {
+        "meaning": [
+            "to happen",
+            "occur"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Gott": {
+        "meaning": [
+            "god; God"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Auto": {
+        "meaning": [
+            "car"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "beschreiben": {
+        "meaning": [
+            "to describe"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Beziehung": {
+        "meaning": [
+            "relation",
+            "relationship"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Erfahrung": {
+        "meaning": [
+            "experience"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "der Tisch": {
+        "meaning": [
+            "table"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "an•nehmen": {
+        "meaning": [
+            "to accept",
+            "assume"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "endlich": {
+        "meaning": [
+            "finally",
+            "at last"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "kriegen": {
+        "meaning": [
+            "to get",
+            "receive"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "die Zukunft": {
+        "meaning": [
+            "future"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "planen": {
+        "meaning": [
+            "to plan"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "das Spiel": {
+        "meaning": [
+            "game"
+        ],
+        "description": "",
+        "examples": []
+    }
+}
