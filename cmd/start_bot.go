@@ -1,13 +1,13 @@
 package cmd
 
 import (
-	"DeutchBot/internal"
+	"DeutchBot/internal/bot"
 	"github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"log"
 )
 
 func StartBot(token string) {
-	bot, err := tgbotapi.NewBotAPI(token)
+	api, err := tgbotapi.NewBotAPI(token)
 	if err != nil {
 		log.Panic(err)
 	}
@@ -15,9 +15,9 @@ func StartBot(token string) {
 	u := tgbotapi.NewUpdate(0)
 	u.Timeout = 60
 
-	updates := bot.GetUpdatesChan(u)
+	updates := api.GetUpdatesChan(u)
 
-	deutchBot := internal.NewBot(bot)
+	deutchBot := bot.NewBot(api)
 
 	for update := range updates {
 		if update.Message != nil { // If we got a message

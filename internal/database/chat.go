@@ -30,6 +30,15 @@ func (c *Chat) SwitchState(state int) {
 	ChatRepository.saveChat(c)
 }
 
+func (c Chat) Payload() string {
+	return c.payload
+}
+
+func (c *Chat) SetPayload(newPayload string) {
+	c.payload = newPayload
+	ChatRepository.saveChat(c)
+}
+
 func (cr *chatRepository) FindChatById(id int64) *Chat {
 	return cr.chats[id]
 }

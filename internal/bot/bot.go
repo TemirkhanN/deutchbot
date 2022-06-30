@@ -1,26 +1,28 @@
-package internal
+package bot
 
 import (
+	"DeutchBot/internal"
+	"DeutchBot/internal/quiz"
 	"DeutchBot/package/cbus"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 
 type DeutchBot struct {
 	commandsHandler cbus.Bus
-	responder       *TelegramOutput
+	responder       *internal.TelegramOutput
 }
 
 func NewBot(api *tgbotapi.BotAPI) *DeutchBot {
-	responder := NewTgOutputWriter(api)
+	responder := internal.NewTgOutputWriter(api)
 	commandBus := cbus.NewCommandBus(responder)
 
 	commandBus.RegisterHandler(
 		cbus.NewHandlerDefinition(
-			NewQuiz(10),
+			quiz.NewQuizHandler(10),
 			func(i cbus.Input) bool {
-				signal := ResolveSignal(string(i))
+				signal := internal.ResolveSignal(string(i))
 
-				return IsTestRelatedSignal(signal)
+				return quiz.CanHandle(signal)
 			},
 		),
 	)
@@ -34,7 +36,7 @@ func NewBot(api *tgbotapi.BotAPI) *DeutchBot {
 func (db *DeutchBot) Consume(message *tgbotapi.Message) {
 	db.responder.SwitchChat(message.Chat.ID)
 
-	db.commandsHandler.Handle(cbus.Input(NewRawSignal(message.Chat.ID, message.Text)))
+	db.commandsHandler.Handle(cbus.Input(internal.NewRawSignal(message.Chat.ID, message.Text)))
 
 	db.responder.Flush()
 }
