@@ -1,12 +1,14 @@
-package cmd
+package main
 
 import (
 	"DeutchBot/internal/bot"
 	"github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"log"
+	"os"
 )
 
-func StartBot(token string) {
+func main() {
+	token := os.Getenv("TG_BOT_TOKEN")
 	api, err := tgbotapi.NewBotAPI(token)
 	if err != nil {
 		log.Panic(err)

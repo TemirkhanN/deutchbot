@@ -1,4 +1,4 @@
-package cmd
+package main
 
 import (
 	"DeutchBot/internal/database"
@@ -14,8 +14,8 @@ type details struct {
 }
 
 // todo move from controller to service
-func RegenerateTasks(projectDir string) {
-
+func main() {
+	projectDir, _ := os.Getwd()
 	dictionaryFile, err := os.Open(projectDir + "/top500words.json")
 	if err != nil {
 		panic(err)
@@ -46,7 +46,7 @@ func RegenerateTasks(projectDir string) {
 		panic(err)
 	}
 
-	err = ioutil.WriteFile(projectDir+"/internal/database/tasks.yaml", rawContent, 0)
+	err = ioutil.WriteFile(projectDir+"/internal/database/tasks_tmp.yaml", rawContent, 0)
 	if err != nil {
 		panic(err)
 	}
