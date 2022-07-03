@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"gopkg.in/yaml.v3"
+	"io"
 	"io/ioutil"
 	"os"
 )
@@ -22,7 +23,7 @@ func main() {
 	}
 	defer dictionaryFile.Close()
 
-	content, _ := ioutil.ReadAll(dictionaryFile)
+	content, _ := io.ReadAll(dictionaryFile)
 
 	var words map[string]details
 

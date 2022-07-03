@@ -25,33 +25,33 @@ func (o *outputSpy) Write(text string) {
 
 func TestCommandBus_HandleWithoutHandlers(t *testing.T) {
 	output := &outputSpy{}
-	commandBus := cbus.NewCommandBus()
+	commandBus := cbus.NewCommandBus(output)
 
-	commandBus.Handle("Hello", output)
+	commandBus.Handle("Hello")
 
 	assert.Empty(t, output.lastOutput)
 }
 
 func TestCommandBus_HandleUnknownCommand(t *testing.T) {
 	output := &outputSpy{}
-	commandBus := cbus.NewCommandBus()
+	commandBus := cbus.NewCommandBus(output)
 	commandBus.RegisterHandler(cbus.NewHandlerDefinition(simpleHandler{}, func(i cbus.Input) bool {
 		return false
 	}))
 
-	commandBus.Handle("Hello", output)
+	commandBus.Handle("Hello")
 
 	assert.Empty(t, output.lastOutput)
 }
 
 func TestCommandBus_Handle(t *testing.T) {
 	output := &outputSpy{}
-	commandBus := cbus.NewCommandBus()
+	commandBus := cbus.NewCommandBus(output)
 	commandBus.RegisterHandler(cbus.NewHandlerDefinition(simpleHandler{}, func(i cbus.Input) bool {
 		return true
 	}))
 
-	commandBus.Handle("Hello", output)
+	commandBus.Handle("Hello")
 
 	assert.Equal(t, "World", output.lastOutput)
 }
