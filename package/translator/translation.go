@@ -1,0 +1,76 @@
+package translator
+
+type grammaticalGender string
+
+// Grammatical genders when applicable
+const (
+	GGenderNeuter    grammaticalGender = "n"
+	GGenderMasculine grammaticalGender = "m"
+	GGenderFeminine  grammaticalGender = "f"
+)
+
+type Example struct {
+	usage   string
+	meaning string
+}
+
+func (e Example) Usage() string {
+	return e.usage
+}
+
+func (e Example) Meaning() string {
+	return e.meaning
+}
+
+type Meaning struct {
+	word   string
+	gender grammaticalGender
+}
+
+func (m Meaning) Word() string {
+	return m.word
+}
+
+func (m Meaning) IsNeuter() bool {
+	return m.gender == GGenderNeuter
+}
+
+func (m Meaning) IsMasculine() bool {
+	return m.gender == GGenderMasculine
+}
+
+func (m Meaning) IsFeminine() bool {
+	return m.gender == GGenderFeminine
+}
+
+type Translation struct {
+	from     Language
+	to       Language
+	word     string
+	meanings []Meaning
+	examples []Example
+}
+
+func (t Translation) FromLanguage() Language {
+	return t.from
+}
+
+func (t Translation) ToLanguage() Language {
+	return t.to
+}
+
+func (t Translation) Word() string {
+	return t.word
+}
+
+func (t Translation) Meanings() []Meaning {
+	return t.meanings
+}
+
+func (t Translation) Examples() []Example {
+	return t.examples
+}
+
+func (t Translation) IsSuccessful() bool {
+	return len(t.meanings) != 0
+}
