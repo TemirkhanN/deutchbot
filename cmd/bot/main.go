@@ -7,6 +7,7 @@ import (
 	"os"
 )
 
+// calling without generated tasks will result in error
 func main() {
 	token := os.Getenv("TG_BOT_TOKEN")
 	api, err := tgbotapi.NewBotAPI(token)

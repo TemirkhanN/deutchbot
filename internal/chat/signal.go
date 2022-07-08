@@ -1,4 +1,4 @@
-package internal
+package chat
 
 import "encoding/json"
 

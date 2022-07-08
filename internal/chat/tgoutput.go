@@ -1,11 +1,9 @@
-package internal
+package chat
 
 import (
 	"bytes"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
-
-type message string
 
 type TelegramOutput struct {
 	chatId int64

@@ -1,12 +1,11 @@
 package main
 
 import (
-	"DeutchBot/internal/database"
+	"DeutchBot/internal/learn"
 	"encoding/json"
 	"fmt"
-	"gopkg.in/yaml.v3"
 	"io"
-	"io/ioutil"
+	"log"
 	"os"
 )
 
@@ -17,7 +16,7 @@ type details struct {
 // todo move from controller to service
 func main() {
 	projectDir, _ := os.Getwd()
-	dictionaryFile, err := os.Open(projectDir + "/top500words.json")
+	dictionaryFile, err := os.Open(projectDir + "/bin/top500words.json")
 	if err != nil {
 		panic(err)
 	}
@@ -29,52 +28,40 @@ func main() {
 
 	json.Unmarshal(content, &words)
 
-	tasks := make([]database.Task, 0)
-
-	taskId := 0
 	for word, d := range words {
-		taskId++
-		tasks = append(tasks, createTaskType1(taskId, word, d))
-		taskId++
-		reverseTasks := createTaskType2(taskId, word, d)
-		tasks = append(tasks, reverseTasks...)
-		//todo messy
-		taskId += len(reverseTasks) - 1
-	}
-
-	rawContent, err := yaml.Marshal(tasks)
-	if err != nil {
-		panic(err)
-	}
-
-	err = ioutil.WriteFile(projectDir+"/internal/database/tasks_tmp.yaml", rawContent, 0)
-	if err != nil {
-		panic(err)
+		createTaskType1(word, d)
+		createTaskType2(word, d)
 	}
 
 	fmt.Println("Tasks successfully regenerated")
 }
 
-func createTaskType1(id int, word string, d details) database.Task {
-	return database.Task{
-		Id:       id,
-		Question: fmt.Sprintf("What does \"%s\" mean?", word),
-		Answers:  d.Meaning,
+func createTaskType1(word string, d details) {
+	answers, err := json.Marshal(d.Meaning)
+	if err != nil {
+		log.Fatal(err)
 	}
+
+	task := &learn.Task{
+		Question: fmt.Sprintf("What does \"%s\" mean?", word),
+		Answers:  answers,
+	}
+
+	learn.TaskRepository.Save(task)
 }
 
 // will be buggy for multivalue words
-func createTaskType2(id int, word string, d details) []database.Task {
-	tasks := make([]database.Task, len(d.Meaning))
-
-	for i, meaning := range d.Meaning {
-		tasks[i] = database.Task{
-			Id:       id,
-			Question: fmt.Sprintf("How do you say \"%s\"?", meaning),
-			Answers:  []string{word},
+func createTaskType2(word string, d details) {
+	for _, meaning := range d.Meaning {
+		answers, err := json.Marshal([]string{word})
+		if err != nil {
+			log.Fatal(err)
 		}
-		id++
-	}
+		task := learn.Task{
+			Question: fmt.Sprintf("How do you say \"%s\"?", meaning),
+			Answers:  answers,
+		}
 
-	return tasks
+		learn.TaskRepository.Save(&task)
+	}
 }
