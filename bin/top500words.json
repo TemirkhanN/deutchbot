@@ -150,7 +150,8 @@
     },
     "so": {
         "meaning": [
-            "so; thus",
+            "so",
+            "thus",
             "this way",
             "such"
         ],
@@ -190,22 +191,24 @@
     },
     "ihr": {
         "meaning": [
-            "you ("
+            "you",
+            "her",
+            "their"
         ],
         "description": "",
         "examples": []
     },
     "ja": {
         "meaning": [
-            "yes; certainly",
-            "really"
+            "yes",
+            "certainly"
         ],
         "description": "",
         "examples": []
     },
     "wie": {
         "meaning": [
-            "how; as"
+            "how"
         ],
         "description": "",
         "examples": []
@@ -367,7 +370,8 @@
     "kein": {
         "meaning": [
             "no",
-            "not a\/an"
+            "not a",
+            "not an"
         ],
         "description": "",
         "examples": []
@@ -484,7 +488,8 @@
     },
     "mir": {
         "meaning": [
-            "[to\/for] me"
+            "for me",
+            "to me"
         ],
         "description": "",
         "examples": []
@@ -615,10 +620,9 @@
     "lassen": {
         "meaning": [
             "to let",
-            "allow",
-            "have (something) done"
+            "to allow"
         ],
-        "description": "",
+        "description": "To allow do something",
         "examples": []
     },
     "uns": {
@@ -780,7 +784,7 @@
     },
     "wenig": {
         "meaning": [
-            "few;"
+            "few"
         ],
         "description": "",
         "examples": []
@@ -862,7 +866,7 @@
     },
     "sondern": {
         "meaning": [
-            "but (on the contrary)"
+            "but"
         ],
         "description": "",
         "examples": []
@@ -964,7 +968,8 @@
     },
     "natürlich": {
         "meaning": [
-            "natural(ly)",
+            "natural",
+            "naturally",
             "of course"
         ],
         "description": "",
@@ -1023,8 +1028,7 @@
     },
     "dabei": {
         "meaning": [
-            "with it; there",
-            "in the process"
+            "thereby"
         ],
         "description": "",
         "examples": []
@@ -1038,7 +1042,8 @@
     },
     "ihnen": {
         "meaning": [
-            "[to\/for] them"
+            "to them",
+            "for them"
         ],
         "description": "",
         "examples": []
@@ -1067,7 +1072,7 @@
     "seit": {
         "meaning": [
             "since",
-            "for (a period of time)"
+            "for"
         ],
         "description": "",
         "examples": []
@@ -1098,7 +1103,7 @@
     "nennen": {
         "meaning": [
             "to name",
-            "call (a thing\/person something)"
+            "to call"
         ],
         "description": "",
         "examples": []
@@ -1121,7 +1126,8 @@
     },
     "gleich": {
         "meaning": [
-            "same; right away",
+            "same",
+            "right away",
             "just"
         ],
         "description": "",
@@ -1216,7 +1222,7 @@
     },
     "eigen": {
         "meaning": [
-            "one&#;s own"
+            "one's own"
         ],
         "description": "",
         "examples": []
@@ -1262,7 +1268,8 @@
     },
     "Arbeit": {
         "meaning": [
-            "(noun"
+            "work",
+            "job"
         ],
         "description": "",
         "examples": []
@@ -1277,8 +1284,7 @@
     "fahren": {
         "meaning": [
             "to drive",
-            "ride",
-            "go (by vehicle)"
+            "to ride"
         ],
         "description": "",
         "examples": []
@@ -1372,7 +1378,7 @@
         "description": "",
         "examples": []
     },
-    "weitere(r\/s)": {
+    "weiteres": {
         "meaning": [
             "additional"
         ],
@@ -1446,7 +1452,7 @@
     "stellen": {
         "meaning": [
             "to place",
-            "set (in a horizontal position)"
+            "set"
         ],
         "description": "",
         "examples": []
@@ -1496,7 +1502,8 @@
     },
     "denen": {
         "meaning": [
-            "[to\/for] w"
+            "which",
+            "that"
         ],
         "description": "",
         "examples": []
@@ -1583,7 +1590,7 @@
         "meaning": [
             "to exist",
             "insist",
-            "pass (an exam)"
+            "pass"
         ],
         "description": "",
         "examples": []
@@ -1598,9 +1605,9 @@
     },
     "dich": {
         "meaning": [
-            "you ("
+            "you"
         ],
-        "description": "",
+        "description": "Accusative form of \"du\"",
         "examples": []
     },
     "dafür": {
@@ -1740,7 +1747,8 @@
     },
     "dir": {
         "meaning": [
-            "[to\/for] you"
+            "to you",
+            "for you"
         ],
         "description": "",
         "examples": []
@@ -1760,7 +1768,14 @@
         "description": "",
         "examples": []
     },
-    "gern(e)": {
+    "gern": {
+        "meaning": [
+            "gladly"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "gerne": {
         "meaning": [
             "gladly"
         ],
@@ -1931,7 +1946,14 @@
         "description": "",
         "examples": []
     },
-    "allein(e)": {
+    "alleine": {
+        "meaning": [
+            "alone"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "allein": {
         "meaning": [
             "alone"
         ],
@@ -2005,7 +2027,8 @@
     },
     "beziehungsweise": {
         "meaning": [
-            "and\/or"
+            "and",
+            "or rather"
         ],
         "description": "",
         "examples": []
@@ -2212,7 +2235,7 @@
     "legen": {
         "meaning": [
             "to put",
-            "lay (in a horizontal position)"
+            "lay"
         ],
         "description": "",
         "examples": []
@@ -2231,7 +2254,7 @@
         "description": "",
         "examples": []
     },
-    "vor•stellen": {
+    "vor stellen": {
         "meaning": [
             "to introduce",
             "imagine"
@@ -2385,7 +2408,8 @@
     },
     "schaffen": {
         "meaning": [
-            "to manage; to create"
+            "to manage",
+            "to create"
         ],
         "description": "",
         "examples": []
@@ -2481,7 +2505,7 @@
     },
     "der Euro": {
         "meaning": [
-            "euro (unit of currency of the EU)"
+            "euro"
         ],
         "description": "",
         "examples": []
@@ -2553,7 +2577,7 @@
         "description": "",
         "examples": []
     },
-    "dar•stellen": {
+    "dar stellen": {
         "meaning": [
             "to depict",
             "portray"
@@ -2576,7 +2600,15 @@
         "description": "",
         "examples": []
     },
-    "nah(e)": {
+    "nahe": {
+        "meaning": [
+            "near",
+            "close"
+        ],
+        "description": "",
+        "examples": []
+    },
+    "nah": {
         "meaning": [
             "near",
             "close"
@@ -2655,12 +2687,12 @@
         "description": "",
         "examples": []
     },
-    "aus•sehen": {
+    "aus sehen": {
         "meaning": [
             "to appear",
-            "look (a certain way)"
+            "to look"
         ],
-        "description": "",
+        "description": "To look in a certain way",
         "examples": []
     },
     "erscheinen": {
@@ -2766,7 +2798,7 @@
         "description": "",
         "examples": []
     },
-    "an•fangen": {
+    "an fangen": {
         "meaning": [
             "to begin"
         ],
@@ -2848,7 +2880,8 @@
     },
     "naja": {
         "meaning": [
-            "well &#;"
+            "well",
+            "anyway"
         ],
         "description": "",
         "examples": []
@@ -2942,7 +2975,7 @@
     },
     "jemand": {
         "meaning": [
-            "someone  ."
+            "someone"
         ],
         "description": "",
         "examples": []
@@ -3049,7 +3082,8 @@
     },
     "wahrscheinlich": {
         "meaning": [
-            "probable; probably"
+            "probable",
+            "probably"
         ],
         "description": "",
         "examples": []
@@ -3125,13 +3159,6 @@
         "description": "",
         "examples": []
     },
-    "her": {
-        "meaning": [
-            "in a direction) away from"
-        ],
-        "description": "",
-        "examples": []
-    },
     "der Punkt": {
         "meaning": [
             "dot",
@@ -3185,7 +3212,7 @@
         "description": "",
         "examples": []
     },
-    "an•bieten": {
+    "an bieten": {
         "meaning": [
             "to offer"
         ],
@@ -3263,7 +3290,7 @@
         "description": "",
         "examples": []
     },
-    "an•sehen": {
+    "an sehen": {
         "meaning": [
             "to look at",
             "watch"
@@ -3305,7 +3332,8 @@
     },
     "das Werk": {
         "meaning": [
-            "work; factory"
+            "work",
+            "factory"
         ],
         "description": "",
         "examples": []
@@ -3377,7 +3405,8 @@
     },
     "plötzlich": {
         "meaning": [
-            "sudden(ly)"
+            "suddenly",
+            "sudden"
         ],
         "description": "",
         "examples": []
@@ -3429,10 +3458,10 @@
     },
     "gering": {
         "meaning": [
-            "low (amount\/level)",
+            "low",
             "small"
         ],
-        "description": "",
+        "description": "Low amount/level",
         "examples": []
     },
     "die Information": {
@@ -3499,7 +3528,7 @@
         "description": "",
         "examples": []
     },
-    "ein•setzen": {
+    "ein setzen": {
         "meaning": [
             "to put in",
             "insert"
@@ -3539,7 +3568,8 @@
     },
     "persönlich": {
         "meaning": [
-            "personal(ly)"
+            "personal",
+            "personally"
         ],
         "description": "",
         "examples": []
@@ -3551,9 +3581,9 @@
         "description": "",
         "examples": []
     },
-    "aus•gehen": {
+    "aus gehen": {
         "meaning": [
-            "to go out; assume"
+            "to go out"
         ],
         "description": "",
         "examples": []
@@ -3581,7 +3611,9 @@
     },
     "Absatz": {
         "meaning": [
-            "sales; paragraph; heel"
+            "sales",
+            "heel",
+            "paragraph"
         ],
         "description": "",
         "examples": []
@@ -3596,7 +3628,7 @@
     },
     "der Gott": {
         "meaning": [
-            "god; God"
+            "God"
         ],
         "description": "",
         "examples": []
@@ -3637,7 +3669,7 @@
         "description": "",
         "examples": []
     },
-    "an•nehmen": {
+    "an nehmen": {
         "meaning": [
             "to accept",
             "assume"
