@@ -3,6 +3,8 @@ package learn
 import (
 	"DeutchBot/internal"
 	"encoding/json"
+	"errors"
+	"fmt"
 	"gorm.io/datatypes"
 	"gorm.io/gorm"
 	"log"
@@ -29,6 +31,20 @@ func (t Task) ShowAnswers() []string {
 	json.Unmarshal(t.Answers, &answers)
 
 	return answers
+}
+
+func (t Task) ShowExample(number uint) (Example, error) {
+	var examples []Example
+	err := json.Unmarshal(t.Examples, &examples)
+	if err != nil {
+		return Example{}, err
+	}
+
+	if int(number) > len(examples) {
+		return Example{}, errors.New(fmt.Sprintf("example %d is out of bounds", number))
+	}
+
+	return examples[number-1], nil
 }
 
 func (t *Task) SetExamples(examples []Example) {

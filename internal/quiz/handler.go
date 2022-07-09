@@ -3,6 +3,7 @@ package quiz
 import (
 	ch "DeutchBot/internal/chat"
 	"DeutchBot/package/cbus"
+	"log"
 	"strings"
 )
 
@@ -59,6 +60,21 @@ func (qh *QuizHandler) applyAnswer(chat *ch.Chat, answer string, o cbus.Output) 
 	chatQuiz := getQuiz(chat)
 
 	currentTask := chatQuiz.getActiveTask()
+
+	if answer == "/example" {
+		example, err := currentTask.ShowExample(1)
+
+		if err != nil {
+			log.Print(err)
+
+			return
+		}
+
+		o.Write("Example:")
+		o.Write(example.Usage)
+
+		return
+	}
 
 	if currentTask.IsCorrectAnswer(answer) {
 		o.Write("Correct.")
