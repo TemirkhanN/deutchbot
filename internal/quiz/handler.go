@@ -70,7 +70,7 @@ func (qh *QuizHandler) applyAnswer(chat *ch.Chat, answer string, o cbus.Output) 
 			return
 		}
 
-		o.Write("Example:")
+		o.Write("Example")
 		o.Write(example.Usage)
 
 		return
