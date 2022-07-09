@@ -8,7 +8,11 @@ func (l Language) String() string {
 	return l.value
 }
 
+func ToLang(lang string) Language {
+	return Language{value: lang}
+}
+
 var (
-	EN = Language{value: "english"}
-	DE = Language{value: "german"}
+	EN = ToLang("english")
+	DE = ToLang("german")
 )

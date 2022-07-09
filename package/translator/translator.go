@@ -51,13 +51,7 @@ func (rt reversoTranslator) Translate(word string, fromLang Language, toLang Lan
 	defer response.Body.Close()
 	content, _ := io.ReadAll(response.Body)
 
-	return Translation{
-		from:     fromLang,
-		to:       toLang,
-		word:     word,
-		meanings: rt.parseMeanings(string(content)),
-		examples: rt.parseExamples(string(content)),
-	}, nil
+	return NewTranslation(word, fromLang, toLang, rt.parseMeanings(string(content)), rt.parseExamples(string(content))), nil
 }
 
 func (rt reversoTranslator) parseMeanings(apiResponse string) []Meaning {
@@ -82,10 +76,7 @@ func (rt reversoTranslator) parseMeanings(apiResponse string) []Meaning {
 			break
 		}
 
-		words = append(words, Meaning{
-			word:   matchedWord[3],
-			gender: grammaticalGender(matchedWord[5]),
-		})
+		words = append(words, NewMeaning(matchedWord[3], matchedWord[5]))
 	}
 
 	return words
@@ -101,10 +92,7 @@ func (rt reversoTranslator) parseExamples(apiResponse string) []Example {
 
 	var examples []Example
 	for _, match := range examplesRaw {
-		examples = append(examples, Example{
-			usage:   sanitizeString(match[3]),
-			meaning: sanitizeString(match[1]),
-		})
+		examples = append(examples, NewExample(sanitizeString(match[3]), sanitizeString(match[1])))
 	}
 
 	return examples

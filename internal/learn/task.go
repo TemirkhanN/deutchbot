@@ -5,15 +5,22 @@ import (
 	"encoding/json"
 	"gorm.io/datatypes"
 	"gorm.io/gorm"
+	"log"
 	"math/rand"
 	"strings"
 	"time"
 )
 
+type Example struct {
+	Usage   string
+	Meaning string
+}
+
 type Task struct {
 	gorm.Model
 	Question string         `gorm:"uniqueIndex:idx_question_answer"`
 	Answers  datatypes.JSON `gorm:"uniqueIndex:idx_question_answer"`
+	Examples datatypes.JSON
 }
 
 func (t Task) ShowAnswers() []string {
@@ -22,6 +29,17 @@ func (t Task) ShowAnswers() []string {
 	json.Unmarshal(t.Answers, &answers)
 
 	return answers
+}
+
+func (t *Task) SetExamples(examples []Example) {
+	serialized, err := json.Marshal(examples)
+	if err != nil {
+		log.Print(err)
+
+		return
+	}
+
+	t.Examples = serialized
 }
 
 func (t Task) IsCorrectAnswer(answer string) bool {
