@@ -1,7 +1,7 @@
 package learn
 
 import (
-	"DeutchBot/internal"
+	"DeutschBot/internal"
 	"encoding/json"
 	"errors"
 	"fmt"

@@ -1,7 +1,7 @@
 package internal
 
 import (
-	t "DeutchBot/package/translator"
+	t "DeutschBot/package/translator"
 	"encoding/json"
 	"gorm.io/datatypes"
 	"gorm.io/gorm"

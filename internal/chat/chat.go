@@ -1,7 +1,7 @@
 package chat
 
 import (
-	"DeutchBot/internal"
+	"DeutschBot/internal"
 	"errors"
 	"gorm.io/gorm"
 )

@@ -1,7 +1,7 @@
 package cbus_test
 
 import (
-	"DeutchBot/package/cbus"
+	"DeutschBot/package/cbus"
 
 	"github.com/stretchr/testify/assert"
 

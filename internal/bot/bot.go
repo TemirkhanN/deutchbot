@@ -1,18 +1,18 @@
 package bot
 
 import (
-	"DeutchBot/internal/chat"
-	"DeutchBot/internal/quiz"
-	"DeutchBot/package/cbus"
+	"DeutschBot/internal/chat"
+	"DeutschBot/internal/quiz"
+	"DeutschBot/package/cbus"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 
-type DeutchBot struct {
+type DeutschBot struct {
 	commandsHandler cbus.Bus
 	responder       *chat.TelegramOutput
 }
 
-func NewBot(api *tgbotapi.BotAPI) *DeutchBot {
+func NewBot(api *tgbotapi.BotAPI) *DeutschBot {
 	responder := chat.NewTgOutputWriter(api)
 	commandBus := cbus.NewCommandBus(responder)
 
@@ -27,13 +27,13 @@ func NewBot(api *tgbotapi.BotAPI) *DeutchBot {
 		),
 	)
 
-	return &DeutchBot{
+	return &DeutschBot{
 		commandsHandler: commandBus,
 		responder:       responder,
 	}
 }
 
-func (db *DeutchBot) Consume(message *tgbotapi.Message) {
+func (db *DeutschBot) Consume(message *tgbotapi.Message) {
 	db.responder.SwitchChat(message.Chat.ID)
 
 	db.commandsHandler.Handle(cbus.Input(chat.NewRawSignal(message.Chat.ID, message.Text)))

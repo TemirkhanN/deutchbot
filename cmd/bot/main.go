@@ -1,7 +1,7 @@
 package main
 
 import (
-	"DeutchBot/internal/bot"
+	"DeutschBot/internal/bot"
 	"github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"log"
 	"os"
@@ -20,13 +20,13 @@ func main() {
 
 	updates := api.GetUpdatesChan(u)
 
-	deutchBot := bot.NewBot(api)
+	deutschBot := bot.NewBot(api)
 
 	for update := range updates {
 		if update.Message != nil { // If we got a message
 			log.Printf("[%s] %s", update.Message.From.UserName, update.Message.Text)
 
-			deutchBot.Consume(update.Message)
+			deutschBot.Consume(update.Message)
 		}
 	}
 }

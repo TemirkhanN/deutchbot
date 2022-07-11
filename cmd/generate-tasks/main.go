@@ -1,9 +1,9 @@
 package main
 
 import (
-	"DeutchBot/internal"
-	"DeutchBot/internal/learn"
-	"DeutchBot/package/translator"
+	"DeutschBot/internal"
+	"DeutschBot/internal/learn"
+	"DeutschBot/package/translator"
 	"encoding/json"
 	"fmt"
 	"io"

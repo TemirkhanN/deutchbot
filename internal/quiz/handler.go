@@ -1,8 +1,8 @@
 package quiz
 
 import (
-	ch "DeutchBot/internal/chat"
-	"DeutchBot/package/cbus"
+	ch "DeutschBot/internal/chat"
+	"DeutschBot/package/cbus"
 	"log"
 	"strings"
 )
