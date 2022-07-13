@@ -7,8 +7,8 @@ import (
 )
 
 type quiz struct {
-	CurrentTask int
-	Tasks       []uint
+	CurrentTask int    `json:"CurrentTask"`
+	Tasks       []uint `json:"Tasks"`
 }
 
 func (q *quiz) getActiveTask() *learn.Task {
@@ -40,10 +40,10 @@ func (q quiz) saveQuiz(c *chat.Chat) {
 }
 
 func getQuiz(c *chat.Chat) *quiz {
-	var q quiz
+	var q *quiz
 	json.Unmarshal([]byte(c.Payload), &q)
 
-	return &q
+	return q
 }
 
 func newQuiz(amountOfTasks uint) *quiz {

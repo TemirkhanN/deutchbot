@@ -17,18 +17,18 @@ type translationCache struct {
 }
 
 type meaningDto struct {
-	Word   string
-	Gender string
+	Word   string `json:"Word"`
+	Gender string `json:"Gender"`
 }
 
 type exampleDto struct {
-	Usage   string
-	Meaning string
+	Usage   string `json:"Usage"`
+	Meaning string `json:"Meaning"`
 }
 
 type translationDto struct {
-	Meanings []meaningDto
-	Examples []exampleDto
+	Meanings []meaningDto `json:"Meanings"`
+	Examples []exampleDto `json:"Examples"`
 }
 
 func newTranslationCache(translation t.Translation) translationCache {
