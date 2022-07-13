@@ -1,8 +1,8 @@
 package quiz
 
 import (
+	"DeutschBot/internal/bot/learn"
 	"DeutschBot/internal/chat"
-	"DeutschBot/internal/learn"
 	"encoding/json"
 )
 

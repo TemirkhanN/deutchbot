@@ -23,6 +23,10 @@ func (o *outputSpy) Write(text string) {
 	o.lastOutput = text
 }
 
+func (o *outputSpy) Writeln(text string) {
+	o.lastOutput = text + "\n"
+}
+
 func TestCommandBus_HandleWithoutHandlers(t *testing.T) {
 	output := &outputSpy{}
 	commandBus := cbus.NewCommandBus(output)

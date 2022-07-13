@@ -26,7 +26,7 @@ func (qh *QuizHandler) Handle(i cbus.Input, o cbus.Output) {
 		chat, _ = ch.NewChat(uint(s.ChatId), workflowName)
 	}
 
-	if !chat.IsInState(stateInProgress) {
+	if !chat.HasActiveWorkflow() {
 		qh.start(chat, o)
 
 		return
@@ -36,24 +36,14 @@ func (qh *QuizHandler) Handle(i cbus.Input, o cbus.Output) {
 }
 
 func (qh *QuizHandler) start(chat *ch.Chat, o cbus.Output) {
-	chat.SwitchState(stateInProgress)
+	chat.StartWorkflow()
 
 	chatQuiz := newQuiz(qh.amountOfTasks)
 	chatQuiz.saveQuiz(chat)
 
 	currentTask := chatQuiz.getActiveTask()
-	o.Write("QuizHandler started.")
-	o.Write(currentTask.Question)
-}
-
-func (qh *QuizHandler) complete(chat *ch.Chat, o cbus.Output) {
-	if !chat.IsInState(stateInProgress) {
-		return
-	}
-
-	chat.SwitchState(stateComplete)
-
-	o.Write("Quiz is complete.")
+	o.Writeln("QuizHandler started.")
+	o.Writeln(currentTask.Question)
 }
 
 func (qh *QuizHandler) applyAnswer(chat *ch.Chat, answer string, o cbus.Output) {
@@ -70,16 +60,16 @@ func (qh *QuizHandler) applyAnswer(chat *ch.Chat, answer string, o cbus.Output) 
 			return
 		}
 
-		o.Write("Example")
-		o.Write(example.Usage)
+		o.Writeln("Example")
+		o.Writeln(example.Usage)
 
 		return
 	}
 
 	if currentTask.IsCorrectAnswer(answer) {
-		o.Write("Correct.")
+		o.Writeln("Correct.")
 	} else {
-		o.Write("Incorrect.Correct was: " + strings.Join(currentTask.ShowAnswers(), "; "))
+		o.Writeln("Incorrect.Correct was: " + strings.Join(currentTask.ShowAnswers(), "; "))
 	}
 
 	nextTask := chatQuiz.toNextTask()
@@ -90,7 +80,17 @@ func (qh *QuizHandler) applyAnswer(chat *ch.Chat, answer string, o cbus.Output) 
 		return
 	}
 
-	o.Write(nextTask.Question)
+	o.Writeln(nextTask.Question)
+}
+
+func (qh *QuizHandler) complete(chat *ch.Chat, o cbus.Output) {
+	if !chat.HasActiveWorkflow() {
+		return
+	}
+
+	chat.CompleteWorkflow()
+
+	o.Writeln("Quiz is complete.")
 }
 
 func CanHandle(s ch.Signal) bool {
@@ -100,7 +100,7 @@ func CanHandle(s ch.Signal) bool {
 	}
 
 	if chat.Workflow == workflowName {
-		if chat.IsInState(stateComplete) {
+		if !chat.HasActiveWorkflow() {
 			return s.Text == "/start_quiz"
 		}
 
@@ -111,8 +111,5 @@ func CanHandle(s ch.Signal) bool {
 }
 
 var (
-	stateDraft      = 0
-	stateInProgress = 1
-	stateComplete   = 2
-	workflowName    = "QuizHandler"
+	workflowName = "QuizHandler"
 )

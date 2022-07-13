@@ -20,6 +20,10 @@ func (to *TelegramOutput) SwitchChat(chatId int64) {
 }
 
 func (to *TelegramOutput) Write(text string) {
+	to.buffer.WriteString(text)
+}
+
+func (to *TelegramOutput) Writeln(text string) {
 	to.buffer.WriteString(text + "\n")
 }
 

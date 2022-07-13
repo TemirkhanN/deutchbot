@@ -1,8 +1,9 @@
 package bot
 
 import (
+	"DeutschBot/internal/bot/learn"
+	"DeutschBot/internal/bot/quiz"
 	"DeutschBot/internal/chat"
-	"DeutschBot/internal/quiz"
 	"DeutschBot/package/cbus"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
@@ -23,6 +24,17 @@ func NewBot(api *tgbotapi.BotAPI) *DeutschBot {
 				signal := chat.ResolveSignal(string(i))
 
 				return quiz.CanHandle(signal)
+			},
+		),
+	)
+
+	commandBus.RegisterHandler(
+		cbus.NewHandlerDefinition(
+			learn.WordHandler{},
+			func(i cbus.Input) bool {
+				signal := chat.ResolveSignal(string(i))
+
+				return learn.CanHandle(signal)
 			},
 		),
 	)

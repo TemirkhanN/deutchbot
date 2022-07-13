@@ -17,13 +17,21 @@ func (c Chat) Id() uint {
 	return c.ID
 }
 
-func (c Chat) IsInState(state int) bool {
-	return c.State == state
+func (c Chat) HasActiveWorkflow() bool {
+	return c.State == stateInProgress
 }
 
-func (c *Chat) SwitchState(state int) {
+func (c *Chat) switchState(state int) {
 	c.State = state
 	ChatRepository.SaveChat(c)
+}
+
+func (c *Chat) StartWorkflow() {
+	c.switchState(stateInProgress)
+}
+
+func (c *Chat) CompleteWorkflow() {
+	c.switchState(stateComplete)
 }
 
 func (c *Chat) SetPayload(newPayload string) {
@@ -88,5 +96,8 @@ func (cr *chatRepository) SaveChat(chat *Chat) {
 }
 
 var (
-	ChatRepository = newChatRepository(internal.Db)
+	stateDraft      = 0
+	stateInProgress = 1
+	stateComplete   = 2
+	ChatRepository  = newChatRepository(internal.Db)
 )
