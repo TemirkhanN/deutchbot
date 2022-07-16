@@ -1,6 +1,8 @@
 package chat
 
-import "encoding/json"
+import (
+	"DeutschBot/internal"
+)
 
 type Signal struct {
 	ChatId int64
@@ -9,21 +11,16 @@ type Signal struct {
 
 func ResolveSignal(raw string) Signal {
 	var result Signal
-
-	json.Unmarshal([]byte(raw), &result)
+	internal.Deserialize([]byte(raw), &result)
 
 	return result
 }
 
 func NewRawSignal(chatId int64, text string) string {
-	data, err := json.Marshal(Signal{
+	data := internal.Serialize(Signal{
 		ChatId: chatId,
 		Text:   text,
 	})
-
-	if err != nil {
-		panic(err)
-	}
 
 	return string(data)
 }

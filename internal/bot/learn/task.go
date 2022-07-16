@@ -2,12 +2,10 @@ package learn
 
 import (
 	"DeutschBot/internal"
-	"encoding/json"
 	"errors"
 	"fmt"
 	"gorm.io/datatypes"
 	"gorm.io/gorm"
-	"log"
 	"math/rand"
 	"strings"
 	"time"
@@ -22,40 +20,39 @@ type Task struct {
 	gorm.Model
 	Question string         `gorm:"uniqueIndex:idx_question_answer"`
 	Answers  datatypes.JSON `gorm:"uniqueIndex:idx_question_answer"`
+	Type     int
 	Examples datatypes.JSON
+}
+
+func CreateTask(question string, answers []string, examples []Example) *Task {
+	task := &Task{
+		Question: question,
+		Answers:  internal.Serialize(answers),
+		Type:     0, // todo
+		Examples: internal.Serialize(examples),
+	}
+
+	TaskRepository.save(task)
+
+	return task
 }
 
 func (t Task) ShowAnswers() []string {
 	var answers []string
-
-	json.Unmarshal(t.Answers, &answers)
+	internal.Deserialize(t.Answers, &answers)
 
 	return answers
 }
 
 func (t Task) ShowExample(number uint) (Example, error) {
 	var examples []Example
-	err := json.Unmarshal(t.Examples, &examples)
-	if err != nil {
-		return Example{}, err
-	}
+	internal.Deserialize(t.Examples, &examples)
 
 	if int(number) > len(examples) {
 		return Example{}, errors.New(fmt.Sprintf("example %d is out of bounds", number))
 	}
 
 	return examples[number-1], nil
-}
-
-func (t *Task) SetExamples(examples []Example) {
-	serialized, err := json.Marshal(examples)
-	if err != nil {
-		log.Print(err)
-
-		return
-	}
-
-	t.Examples = serialized
 }
 
 func (t Task) IsCorrectAnswer(answer string) bool {
@@ -117,7 +114,7 @@ func (tr taskRepository) FindRandomTasksIds(amount uint) []uint {
 	return ids
 }
 
-func (tr *taskRepository) Save(task *Task) {
+func (tr *taskRepository) save(task *Task) {
 	if task.ID == 0 {
 		tr.db.Create(task)
 	} else {

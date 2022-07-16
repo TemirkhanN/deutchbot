@@ -1,9 +1,9 @@
 package quiz
 
 import (
+	"DeutschBot/internal"
 	"DeutschBot/internal/bot/learn"
 	"DeutschBot/internal/chat"
-	"encoding/json"
 )
 
 type quiz struct {
@@ -33,15 +33,13 @@ func (q *quiz) toNextTask() *learn.Task {
 }
 
 func (q quiz) saveQuiz(c *chat.Chat) {
-	serialized, _ := json.Marshal(q)
-
-	c.SetPayload(string(serialized))
+	c.SetPayload(string(internal.Serialize(q)))
 	chat.ChatRepository.SaveChat(c)
 }
 
 func getQuiz(c *chat.Chat) *quiz {
 	var q *quiz
-	json.Unmarshal([]byte(c.Payload), &q)
+	internal.Deserialize([]byte(c.Payload), &q)
 
 	return q
 }

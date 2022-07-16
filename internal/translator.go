@@ -2,10 +2,8 @@ package internal
 
 import (
 	t "DeutschBot/package/translator"
-	"encoding/json"
 	"gorm.io/datatypes"
 	"gorm.io/gorm"
-	"log"
 )
 
 type translationCache struct {
@@ -48,16 +46,11 @@ func newTranslationCache(translation t.Translation) translationCache {
 		})
 	}
 
-	serialized, err := json.Marshal(payload)
-	if err != nil {
-		log.Fatal(err)
-	}
-
 	cache := translationCache{
 		Word:     translation.Word(),
 		FromLang: translation.FromLanguage().String(),
 		ToLang:   translation.ToLanguage().String(),
-		Cache:    serialized,
+		Cache:    Serialize(payload),
 	}
 
 	return cache
@@ -65,7 +58,7 @@ func newTranslationCache(translation t.Translation) translationCache {
 
 func (tc translationCache) extract() t.Translation {
 	var payload translationDto
-	json.Unmarshal(tc.Cache, &payload)
+	Deserialize(tc.Cache, &payload)
 
 	var meanings []t.Meaning
 	for _, meaning := range payload.Meanings {

@@ -4,10 +4,8 @@ import (
 	"DeutschBot/internal"
 	"DeutschBot/internal/bot/learn"
 	"DeutschBot/package/translator"
-	"encoding/json"
 	"fmt"
 	"io"
-	"log"
 	"os"
 )
 
@@ -27,8 +25,7 @@ func main() {
 	content, _ := io.ReadAll(dictionaryFile)
 
 	var words map[string]details
-
-	json.Unmarshal(content, &words)
+	internal.Deserialize(content, &words)
 
 	for word, d := range words {
 		translation, err := internal.Translator.Translate(word, translator.DE, translator.EN)
@@ -45,18 +42,8 @@ func main() {
 }
 
 func createTaskType1(translation translator.Translation, d details) {
-	answers, err := json.Marshal(d.Meaning)
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	task := &learn.Task{
-		Question: fmt.Sprintf("What does \"%s\" mean?", translation.Word()),
-		Answers:  answers,
-	}
-
+	var examples []learn.Example
 	if len(translation.Examples()) > 0 {
-		var examples []learn.Example
 		for _, example := range translation.Examples() {
 			examples = append(examples, learn.Example{
 				Usage:   example.Meaning(),
@@ -67,26 +54,20 @@ func createTaskType1(translation translator.Translation, d details) {
 				break
 			}
 		}
-		task.SetExamples(examples)
 	}
 
-	learn.TaskRepository.Save(task)
+	learn.CreateTask(
+		fmt.Sprintf("What does \"%s\" mean?", translation.Word()),
+		d.Meaning,
+		examples,
+	)
 }
 
 // will be buggy for multivalue words
 func createTaskType2(translation translator.Translation, d details) {
 	for _, meaning := range d.Meaning {
-		answers, err := json.Marshal([]string{translation.Word()})
-		if err != nil {
-			log.Fatal(err)
-		}
-		task := learn.Task{
-			Question: fmt.Sprintf("How do you say \"%s\"?", meaning),
-			Answers:  answers,
-		}
-
+		var examples []learn.Example
 		if len(translation.Examples()) > 0 {
-			var examples []learn.Example
 			for _, example := range translation.Examples() {
 				examples = append(examples, learn.Example{
 					Usage:   example.Usage(),
@@ -97,9 +78,12 @@ func createTaskType2(translation translator.Translation, d details) {
 					break
 				}
 			}
-			task.SetExamples(examples)
 		}
 
-		learn.TaskRepository.Save(&task)
+		learn.CreateTask(
+			fmt.Sprintf("How do you say \"%s\"?", meaning),
+			[]string{translation.Word()},
+			examples,
+		)
 	}
 }
