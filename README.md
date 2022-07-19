@@ -28,10 +28,10 @@ go run cmd/bot/main.go
 
 Some commands are stateful and will block others if the flow is in progress. For example [/start_quiz](#/start_quiz).  
 
-- [/learn_word](#/learn_word)
-- [/start_quiz](#/start_quiz)
-    - [/example](#/example)
-- [/translate](#/translate)
+- [/learn_word](#learn_word)
+- [/start_quiz](#start_quiz)
+    - [/example](#example)
+- [/translate](#translate)
 
 ### /learn_word
 
