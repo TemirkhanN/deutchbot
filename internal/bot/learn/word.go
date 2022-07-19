@@ -27,6 +27,10 @@ func (wh WordHandler) Handle(i cbus.Input, o cbus.Output) {
 	for {
 		example, err := task.ShowExample(exampleNumber)
 		if err != nil {
+			if exampleNumber == 1 {
+				o.Writeln("We don't have examples for this word yet.")
+			}
+
 			break
 		}
 		o.Writeln(fmt.Sprintf("%d. %s", exampleNumber, example.Usage))

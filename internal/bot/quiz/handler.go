@@ -54,6 +54,7 @@ func (qh *QuizHandler) applyAnswer(chat *ch.Chat, answer string, o cbus.Output) 
 
 		if err != nil {
 			log.Print(err)
+			o.Writeln("We don't have examples for this word yet.")
 
 			return
 		}
