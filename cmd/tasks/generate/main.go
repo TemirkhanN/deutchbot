@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"io"
 	"os"
+	"strings"
 )
 
 type details struct {
@@ -16,7 +17,7 @@ type details struct {
 // todo move from controller to service
 func main() {
 	projectDir, _ := os.Getwd()
-	dictionaryFile, err := os.Open(projectDir + "/bin/top500words.json")
+	dictionaryFile, err := os.Open(projectDir + "/bin/top-words.json")
 	if err != nil {
 		panic(err)
 	}
@@ -63,27 +64,24 @@ func createTaskType1(translation translator.Translation, d details) {
 	)
 }
 
-// will be buggy for multivalue words
 func createTaskType2(translation translator.Translation, d details) {
-	for _, meaning := range d.Meaning {
-		var examples []learn.Example
-		if len(translation.Examples()) > 0 {
-			for _, example := range translation.Examples() {
-				examples = append(examples, learn.Example{
-					Usage:   example.Usage(),
-					Meaning: example.Meaning(),
-				})
+	var examples []learn.Example
+	if len(translation.Examples()) > 0 {
+		for _, example := range translation.Examples() {
+			examples = append(examples, learn.Example{
+				Usage:   example.Usage(),
+				Meaning: example.Meaning(),
+			})
 
-				if len(examples) > 2 {
-					break
-				}
+			if len(examples) > 2 {
+				break
 			}
 		}
-
-		learn.CreateTask(
-			fmt.Sprintf("How do you say \"%s\"?", meaning),
-			[]string{translation.Word()},
-			examples,
-		)
 	}
+
+	learn.CreateTask(
+		fmt.Sprintf("How do you say \"%s\"?", strings.Join(d.Meaning, "; ")),
+		[]string{translation.Word()},
+		examples,
+	)
 }
