@@ -37,9 +37,7 @@ func (qh *QuizHandler) Handle(i cbus.Input, o cbus.Output) {
 
 func (qh *QuizHandler) start(chat *ch.Chat, o cbus.Output) {
 	chat.StartWorkflow()
-
-	chatQuiz := newQuiz(qh.amountOfTasks)
-	chatQuiz.saveQuiz(chat)
+	chatQuiz := newQuiz(chat, qh.amountOfTasks)
 
 	currentTask := chatQuiz.getActiveTask()
 	o.Writeln("QuizHandler started.")
@@ -68,10 +66,10 @@ func (qh *QuizHandler) applyAnswer(chat *ch.Chat, answer string, o cbus.Output) 
 
 	if currentTask.IsCorrectAnswer(answer) {
 		o.Writeln("Correct.")
-		StatisticService.LogCorrectAnswer(*currentTask, chat.ID)
+		StatisticService.logCorrectAnswer(*currentTask, chat.ID)
 	} else {
 		o.Writeln("Incorrect.Correct was: " + strings.Join(currentTask.ShowAnswers(), "; "))
-		StatisticService.LogIncorrectAnswer(*currentTask, chat.ID)
+		StatisticService.logIncorrectAnswer(*currentTask, chat.ID)
 	}
 
 	nextTask := chatQuiz.toNextTask()

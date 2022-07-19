@@ -44,11 +44,18 @@ func getQuiz(c *chat.Chat) *quiz {
 	return q
 }
 
-func newQuiz(amountOfTasks uint) *quiz {
+func newQuiz(ch *chat.Chat, amountOfTasks uint) *quiz {
+	tasksIds := StatisticService.GetMostDifficultTasks(ch.ID, amountOfTasks)
+	if len(tasksIds) < int(amountOfTasks) {
+		tasksIds = learn.TaskRepository.FindRandomTasksIds(amountOfTasks)
+	}
+
 	q := &quiz{
 		CurrentTask: 0,
-		Tasks:       learn.TaskRepository.FindRandomTasksIds(amountOfTasks),
+		Tasks:       tasksIds,
 	}
+
+	q.saveQuiz(ch)
 
 	return q
 }
