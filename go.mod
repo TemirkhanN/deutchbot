@@ -1,4 +1,4 @@
-module DeutschBot
+module deutschbot
 
 go 1.18
 
